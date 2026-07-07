@@ -1,0 +1,1309 @@
+[
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "stasera",
+        "english": "tonight",
+        "pronunciation": "stah-SEH-rah",
+        "examples": [
+            { "italian": "Voglio vederti stasera.", "english": "I want to see you tonight." },
+            { "italian": "Che cosa fai stasera?", "english": "What are you doing tonight?" },
+            { "italian": "Andiamo a cena stasera.", "english": "Let's go to dinner tonight." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "domani",
+        "english": "tomorrow",
+        "pronunciation": "doh-MAH-nee",
+        "examples": [
+            { "italian": "Ti vedo domani.", "english": "I'll see you tomorrow." },
+            { "italian": "Domani è un altro giorno.", "english": "Tomorrow is another day." },
+            { "italian": "Che cosa fai domani?", "english": "What are you doing tomorrow?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "oggi",
+        "english": "today",
+        "pronunciation": "OH-jee",
+        "examples": [
+            { "italian": "Oggi è lunedì.", "english": "Today is Monday." },
+            { "italian": "Ho molto da fare oggi.", "english": "I have a lot to do today." },
+            { "italian": "Che cosa è successo oggi?", "english": "What happened today?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "ieri",
+        "english": "yesterday",
+        "pronunciation": "ee-EH-ree",
+        "examples": [
+            { "italian": "Ieri era una bella giornata.", "english": "Yesterday was a beautiful day." },
+            { "italian": "Ti ho visto ieri.", "english": "I saw you yesterday." },
+            { "italian": "Che cosa hai fatto ieri?", "english": "What did you do yesterday?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "mattina",
+        "english": "morning",
+        "pronunciation": "maht-TEE-nah",
+        "examples": [
+            { "italian": "Domani mattina vado al lavoro.", "english": "Tomorrow morning I'm going to work." },
+            { "italian": "Mi sveglio presto la mattina.", "english": "I wake up early in the morning." },
+            { "italian": "Buongiorno! Come stai questa mattina?", "english": "Good morning! How are you this morning?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "pomeriggio",
+        "english": "afternoon",
+        "pronunciation": "poh-meh-REE-joh",
+        "examples": [
+            { "italian": "Nel pomeriggio vado al negozio.", "english": "In the afternoon I'm going to the shop." },
+            { "italian": "Ti chiamo nel pomeriggio.", "english": "I'll call you in the afternoon." },
+            { "italian": "Che cosa fai questo pomeriggio?", "english": "What are you doing this afternoon?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "sera",
+        "english": "evening",
+        "pronunciation": "SEH-rah",
+        "examples": [
+            { "italian": "Di sera faccio una passeggiata.", "english": "In the evening I take a walk." },
+            { "italian": "Ci vediamo domani sera.", "english": "We'll see each other tomorrow evening." },
+            { "italian": "Buonasera, come stai?", "english": "Good evening, how are you?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "notte",
+        "english": "night",
+        "pronunciation": "NOH-teh",
+        "examples": [
+            { "italian": "Dormo bene la notte.", "english": "I sleep well at night." },
+            { "italian": "Di notte le stelle brillano.", "english": "At night the stars shine." },
+            { "italian": "Buonanotte, arrivederci!", "english": "Good night, goodbye!" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "adesso",
+        "english": "now",
+        "pronunciation": "ah-DES-soh",
+        "examples": [
+            { "italian": "Devo andare adesso.", "english": "I have to go now." },
+            { "italian": "Che cosa stai facendo adesso?", "english": "What are you doing now?" },
+            { "italian": "Adesso è il momento giusto.", "english": "Now is the right time." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "dopo",
+        "english": "later / after",
+        "pronunciation": "DOH-poh",
+        "examples": [
+            { "italian": "Ti vedo dopo.", "english": "I'll see you later." },
+            { "italian": "Dopo il lavoro vado a casa.", "english": "After work I go home." },
+            { "italian": "Parliamo di questo dopo.", "english": "Let's talk about this later." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "presto",
+        "english": "soon",
+        "pronunciation": "PRES-toh",
+        "examples": [
+            { "italian": "Lo farò presto.", "english": "I'll do it soon." },
+            { "italian": "Arriverà presto.", "english": "He'll arrive soon." },
+            { "italian": "A presto!", "english": "See you soon!" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "settimana",
+        "english": "week",
+        "pronunciation": "set-tee-MAH-nah",
+        "examples": [
+            { "italian": "La prossima settimana vado in vacanza.", "english": "Next week I'm going on vacation." },
+            { "italian": "Questa settimana ho molto lavoro.", "english": "This week I have a lot of work." },
+            { "italian": "Una settimana ha sette giorni.", "english": "A week has seven days." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "mese",
+        "english": "month",
+        "pronunciation": "MEH-zeh",
+        "examples": [
+            { "italian": "Il prossimo mese andrò a Roma.", "english": "Next month I'll go to Rome." },
+            { "italian": "Questo mese è molto caldo.", "english": "This month is very hot." },
+            { "italian": "Un anno ha dodici mesi.", "english": "A year has twelve months." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "anno",
+        "english": "year",
+        "pronunciation": "AHN-noh",
+        "examples": [
+            { "italian": "L'anno prossimo avrò trent'anni.", "english": "Next year I'll be thirty." },
+            { "italian": "Questo anno è stato difficile.", "english": "This year has been difficult." },
+            { "italian": "Quanti anni hai?", "english": "How old are you?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "dopodomani",
+        "english": "day after tomorrow",
+        "pronunciation": "doh-poh-doh-MAH-nee",
+        "examples": [
+            { "italian": "Ti vedo dopodomani.", "english": "I'll see you the day after tomorrow." },
+            { "italian": "Dopodomani andrò al cinema.", "english": "The day after tomorrow I'm going to the cinema." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "ora",
+        "english": "hour",
+        "pronunciation": "OH-rah",
+        "examples": [
+            { "italian": "Aspetta un'ora.", "english": "Wait an hour." },
+            { "italian": "Che ora è?", "english": "What time is it?" },
+            { "italian": "Lavoro otto ore al giorno.", "english": "I work eight hours a day." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "minuto",
+        "english": "minute",
+        "pronunciation": "mee-NOO-toh",
+        "examples": [
+            { "italian": "Aspetta un minuto.", "english": "Wait a minute." },
+            { "italian": "Manca un minuto alle tre.", "english": "It's one minute before three." },
+            { "italian": "Dammi cinque minuti.", "english": "Give me five minutes." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Time - General",
+        "italian": "secondo",
+        "english": "second",
+        "pronunciation": "seh-KOHN-doh",
+        "examples": [
+            { "italian": "Aspetta un secondo.", "english": "Wait a second." },
+            { "italian": "Un minuto ha sessanta secondi.", "english": "A minute has sixty seconds." },
+            { "italian": "Dimmi un secondo come stai.", "english": "Tell me in a second how you are." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "sinistra",
+        "english": "left",
+        "pronunciation": "see-NEES-trah",
+        "examples": [
+            { "italian": "Gira a sinistra.", "english": "Turn left." },
+            { "italian": "La banca è sulla sinistra.", "english": "The bank is on the left." },
+            { "italian": "Vai a sinistra al semaforo.", "english": "Turn left at the traffic light." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "destra",
+        "english": "right",
+        "pronunciation": "DES-trah",
+        "examples": [
+            { "italian": "Gira a destra.", "english": "Turn right." },
+            { "italian": "La stazione è sulla destra.", "english": "The station is on the right." },
+            { "italian": "Vai dritto e poi gira a destra.", "english": "Go straight and then turn right." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "dritto",
+        "english": "straight",
+        "pronunciation": "DREET-toh",
+        "examples": [
+            { "italian": "Vai dritto.", "english": "Go straight." },
+            { "italian": "Continua dritto per un chilometro.", "english": "Continue straight for one kilometer." },
+            { "italian": "È dritto davanti a te.", "english": "It's straight ahead." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "indietro",
+        "english": "back",
+        "pronunciation": "een-dee-EH-troh",
+        "examples": [
+            { "italian": "Vai indietro.", "english": "Go back." },
+            { "italian": "Torna indietro, hai dimenticato qualcosa.", "english": "Go back, you forgot something." },
+            { "italian": "La macchina va indietro.", "english": "The car goes back." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "avanti",
+        "english": "forward",
+        "pronunciation": "ah-VAHN-tee",
+        "examples": [
+            { "italian": "Vai avanti.", "english": "Go forward." },
+            { "italian": "Continua avanti.", "english": "Keep going forward." },
+            { "italian": "Guardare avanti, non indietro.", "english": "Look forward, not back." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "su",
+        "english": "up",
+        "pronunciation": "soo",
+        "examples": [
+            { "italian": "Vai su per le scale.", "english": "Go up the stairs." },
+            { "italian": "L'appartamento è su al terzo piano.", "english": "The apartment is up on the third floor." },
+            { "italian": "Guarda su, vedi la luna?", "english": "Look up, do you see the moon?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "giù",
+        "english": "down",
+        "pronunciation": "joo",
+        "examples": [
+            { "italian": "Vai giù per le scale.", "english": "Go down the stairs." },
+            { "italian": "Il bagno è giù al piano terra.", "english": "The bathroom is down on the ground floor." },
+            { "italian": "Siedi giù, per favore.", "english": "Sit down, please." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "qui",
+        "english": "here",
+        "pronunciation": "KWEE",
+        "examples": [
+            { "italian": "Vieni qui.", "english": "Come here." },
+            { "italian": "Mi piace qui.", "english": "I like it here." },
+            { "italian": "Qui c'è un ristorante buono.", "english": "There's a good restaurant here." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "là",
+        "english": "there",
+        "pronunciation": "lah",
+        "examples": [
+            { "italian": "Vedi quello là?", "english": "Do you see that over there?" },
+            { "italian": "La stazione è là.", "english": "The station is there." },
+            { "italian": "Vado là domani.", "english": "I'm going there tomorrow." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "vicino",
+        "english": "near / close",
+        "pronunciation": "vee-CHEE-noh",
+        "examples": [
+            { "italian": "La banca è vicino qui.", "english": "The bank is near here." },
+            { "italian": "Abito vicino a te.", "english": "I live close to you." },
+            { "italian": "Sedersi vicino a me.", "english": "Sit next to me." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "lontano",
+        "english": "far",
+        "pronunciation": "lohn-TAH-noh",
+        "examples": [
+            { "italian": "Il cinema è lontano?", "english": "Is the cinema far?" },
+            { "italian": "Non è lontano da qui.", "english": "It's not far from here." },
+            { "italian": "Roma è lontana da Milano.", "english": "Rome is far from Milan." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "accanto",
+        "english": "next to / beside",
+        "pronunciation": "ahk-KAHN-toh",
+        "examples": [
+            { "italian": "Siedo accanto a te.", "english": "I'm sitting next to you." },
+            { "italian": "Il supermercato è accanto alla banca.", "english": "The supermarket is next to the bank." },
+            { "italian": "Metti il libro accanto al telefono.", "english": "Put the book next to the phone." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "di fronte",
+        "english": "across / opposite",
+        "pronunciation": "dee FROHN-teh",
+        "examples": [
+            { "italian": "La farmacia è di fronte al negozio.", "english": "The pharmacy is across from the shop." },
+            { "italian": "Il museo è di fronte alla stazione.", "english": "The museum is opposite the station." },
+            { "italian": "Siediti di fronte a me.", "english": "Sit across from me." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "angolo",
+        "english": "corner",
+        "pronunciation": "AHN-goh-loh",
+        "examples": [
+            { "italian": "Il bar è all'angolo.", "english": "The bar is at the corner." },
+            { "italian": "Gira all'angolo a sinistra.", "english": "Turn left at the corner." },
+            { "italian": "L'ufficio postale è in angolo.", "english": "The post office is on the corner." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Directions",
+        "italian": "incrocio",
+        "english": "intersection",
+        "pronunciation": "een-KROH-choh",
+        "examples": [
+            { "italian": "All'incrocio gira a destra.", "english": "At the intersection turn right." },
+            { "italian": "C'è un semaforo all'incrocio.", "english": "There's a traffic light at the intersection." },
+            { "italian": "L'incrocio è pericoloso.", "english": "The intersection is dangerous." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "in",
+        "english": "in",
+        "pronunciation": "een",
+        "examples": [
+            { "italian": "Sono in casa.", "english": "I'm in the house." },
+            { "italian": "Il libro è in tavolo.", "english": "The book is on the table." },
+            { "italian": "Vado in Italia.", "english": "I'm going to Italy." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "su",
+        "english": "on",
+        "pronunciation": "soo",
+        "examples": [
+            { "italian": "Il libro è su tavolo.", "english": "The book is on the table." },
+            { "italian": "Saliamo su la montagna.", "english": "We're going up the mountain." },
+            { "italian": "Il gatto è su il letto.", "english": "The cat is on the bed." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "a",
+        "english": "at / to",
+        "pronunciation": "ah",
+        "examples": [
+            { "italian": "Sono a casa alle 5.", "english": "I'm at home at 5." },
+            { "italian": "Vado a scuola.", "english": "I'm going to school." },
+            { "italian": "Mi piace giocare a calcio.", "english": "I like to play football." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "sotto",
+        "english": "under",
+        "pronunciation": "SOHT-toh",
+        "examples": [
+            { "italian": "Il gatto è sotto il tavolo.", "english": "The cat is under the table." },
+            { "italian": "Il tubo è sotto terra.", "english": "The pipe is underground." },
+            { "italian": "Sotto la pioggia.", "english": "Under the rain." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "sopra",
+        "english": "over / above",
+        "pronunciation": "SOH-prah",
+        "examples": [
+            { "italian": "L'aereo vola sopra le nuvole.", "english": "The airplane flies above the clouds." },
+            { "italian": "Il quadro è sopra il divano.", "english": "The picture is above the sofa." },
+            { "italian": "Sopra la porta c'è una finestra.", "english": "There's a window above the door." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "tra",
+        "english": "between",
+        "pronunciation": "trah",
+        "examples": [
+            { "italian": "Sono seduto tra te e Marco.", "english": "I'm sitting between you and Marco." },
+            { "italian": "Milano è tra Torino e Venezia.", "english": "Milan is between Turin and Venice." },
+            { "italian": "Tra qualche giorno verrò.", "english": "I'll come in a few days." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "fra",
+        "english": "among / between",
+        "pronunciation": "frah",
+        "examples": [
+            { "italian": "Sono fra i migliori studenti.", "english": "I'm among the best students." },
+            { "italian": "Fra poco arriverà.", "english": "He'll arrive shortly." },
+            { "italian": "Fra questi libri è il mio preferito.", "english": "Among these books is my favorite." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "con",
+        "english": "with",
+        "pronunciation": "kohn",
+        "examples": [
+            { "italian": "Vado al cinema con gli amici.", "english": "I'm going to the cinema with my friends." },
+            { "italian": "Parla con mia madre.", "english": "Talk with my mother." },
+            { "italian": "Caffè con zucchero.", "english": "Coffee with sugar." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "senza",
+        "english": "without",
+        "pronunciation": "SEN-zah",
+        "examples": [
+            { "italian": "Caffè senza zucchero.", "english": "Coffee without sugar." },
+            { "italian": "Non posso vivere senza di te.", "english": "I can't live without you." },
+            { "italian": "È arrivato senza dire niente.", "english": "He arrived without saying anything." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "per",
+        "english": "for",
+        "pronunciation": "pehr",
+        "examples": [
+            { "italian": "Questo è per te.", "english": "This is for you." },
+            { "italian": "Parto per l'Italia domani.", "english": "I'm leaving for Italy tomorrow." },
+            { "italian": "Ho aspettato per un'ora.", "english": "I waited for an hour." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "da",
+        "english": "from",
+        "pronunciation": "dah",
+        "examples": [
+            { "italian": "Vengo da Roma.", "english": "I come from Rome." },
+            { "italian": "Da quando sei qui?", "english": "How long have you been here?" },
+            { "italian": "Un regalo da mio padre.", "english": "A gift from my father." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "verso",
+        "english": "towards",
+        "pronunciation": "VER-soh",
+        "examples": [
+            { "italian": "Vado verso casa.", "english": "I'm going towards home." },
+            { "italian": "Camminiamo verso il mare.", "english": "We're walking towards the sea." },
+            { "italian": "Verso sera arriverò.", "english": "I'll arrive towards evening." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "prima",
+        "english": "before",
+        "pronunciation": "PREE-mah",
+        "examples": [
+            { "italian": "Prima del lavoro prendo un caffè.", "english": "Before work I have a coffee." },
+            { "italian": "Lo faccio prima.", "english": "I'll do it before." },
+            { "italian": "Prima di uscire chiudi la porta.", "english": "Before going out, close the door." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "dopo",
+        "english": "after",
+        "pronunciation": "DOH-poh",
+        "examples": [
+            { "italian": "Dopo il lavoro vado a casa.", "english": "After work I go home." },
+            { "italian": "Dopo qualche ora torno.", "english": "I'll return after a few hours." },
+            { "italian": "Dopo il cibo mi riposerò.", "english": "After eating I'll rest." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "durante",
+        "english": "during",
+        "pronunciation": "doo-RAHN-teh",
+        "examples": [
+            { "italian": "Durante il film non parlo.", "english": "I don't talk during the movie." },
+            { "italian": "Durante l'estate vado in vacanza.", "english": "During summer I go on vacation." },
+            { "italian": "Non disturbare durante la riunione.", "english": "Don't disturb during the meeting." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "dentro",
+        "english": "inside",
+        "pronunciation": "DEN-troh",
+        "examples": [
+            { "italian": "Le chiavi sono dentro la borsa.", "english": "The keys are inside the bag." },
+            { "italian": "Entra dentro.", "english": "Come inside." },
+            { "italian": "Guardati dentro lo specchio.", "english": "Look at yourself in the mirror." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "fuori",
+        "english": "outside",
+        "pronunciation": "foo-OH-ree",
+        "examples": [
+            { "italian": "Fa freddo fuori.", "english": "It's cold outside." },
+            { "italian": "Vieni fuori, per favore.", "english": "Come outside, please." },
+            { "italian": "Il gatto è fuori.", "english": "The cat is outside." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "dietro",
+        "english": "behind",
+        "pronunciation": "dee-EH-troh",
+        "examples": [
+            { "italian": "Stai dietro di me.", "english": "Stay behind me." },
+            { "italian": "L'albero è dietro la casa.", "english": "The tree is behind the house." },
+            { "italian": "Chi è dietro la porta?", "english": "Who is behind the door?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Prepositions",
+        "italian": "davanti",
+        "english": "in front of",
+        "pronunciation": "dah-VAHN-tee",
+        "examples": [
+            { "italian": "Stai davanti a me.", "english": "Stand in front of me." },
+            { "italian": "La chiesa è davanti al municipio.", "english": "The church is in front of the town hall." },
+            { "italian": "Davanti a lui, ero nervoso.", "english": "In front of him, I was nervous." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "sempre",
+        "english": "always",
+        "pronunciation": "SEM-preh",
+        "examples": [
+            { "italian": "Sono sempre felice.", "english": "I'm always happy." },
+            { "italian": "Mi chiama sempre.", "english": "He always calls me." },
+            { "italian": "Vado sempre in palestra.", "english": "I always go to the gym." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "mai",
+        "english": "never",
+        "pronunciation": "mah-ee",
+        "examples": [
+            { "italian": "Non mi chiama mai.", "english": "He never calls me." },
+            { "italian": "Non sono mai stato in Giappone.", "english": "I've never been to Japan." },
+            { "italian": "Non bevo mai caffè la sera.", "english": "I never drink coffee in the evening." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "a volte",
+        "english": "sometimes",
+        "pronunciation": "ah VOHL-teh",
+        "examples": [
+            { "italian": "A volte vado al cinema.", "english": "Sometimes I go to the cinema." },
+            { "italian": "A volte mi piace stare solo.", "english": "Sometimes I like to be alone." },
+            { "italian": "A volte è difficile.", "english": "Sometimes it's difficult." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "spesso",
+        "english": "often",
+        "pronunciation": "SPES-soh",
+        "examples": [
+            { "italian": "Vado spesso al lavoro in metro.", "english": "I often go to work by subway." },
+            { "italian": "Mi chiama spesso.", "english": "He calls me often." },
+            { "italian": "Spesso mangio pasta.", "english": "Often I eat pasta." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "di solito",
+        "english": "usually",
+        "pronunciation": "dee soh-LEE-toh",
+        "examples": [
+            { "italian": "Di solito mi sveglio alle 7.", "english": "I usually wake up at 7." },
+            { "italian": "Di solito vado al lavoro in macchina.", "english": "Usually I go to work by car." },
+            { "italian": "Di solito è molto simpatico.", "english": "He's usually very nice." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "raramente",
+        "english": "rarely",
+        "pronunciation": "rah-rah-MEN-teh",
+        "examples": [
+            { "italian": "Raramente bevo alcol.", "english": "I rarely drink alcohol." },
+            { "italian": "Raramente si vede questo.", "english": "This is rarely seen." },
+            { "italian": "Lo faccio raramente.", "english": "I rarely do it." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "ogni",
+        "english": "every",
+        "pronunciation": "OHN-yee",
+        "examples": [
+            { "italian": "Vado al lavoro ogni giorno.", "english": "I go to work every day." },
+            { "italian": "Ogni settimana vado al mercato.", "english": "Every week I go to the market." },
+            { "italian": "Ogni mattina prendo un caffè.", "english": "Every morning I have a coffee." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "alcuni",
+        "english": "some",
+        "pronunciation": "ahl-KOO-nee",
+        "examples": [
+            { "italian": "Alcuni amici vengono stasera.", "english": "Some friends are coming tonight." },
+            { "italian": "Mi piacciono alcuni film.", "english": "I like some films." },
+            { "italian": "Ci sono alcuni problemi.", "english": "There are some problems." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "tutto",
+        "english": "all / everything",
+        "pronunciation": "TOOT-toh",
+        "examples": [
+            { "italian": "Ho visto tutto.", "english": "I saw everything." },
+            { "italian": "Tutti sono arrivati.", "english": "Everyone arrived." },
+            { "italian": "Mi piace tutto qui.", "english": "I like everything here." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "nulla",
+        "english": "nothing",
+        "pronunciation": "NOOL-lah",
+        "examples": [
+            { "italian": "Non ho visto nulla.", "english": "I saw nothing." },
+            { "italian": "Nulla è impossibile.", "english": "Nothing is impossible." },
+            { "italian": "Non conosco nulla di questo.", "english": "I know nothing about this." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "molto",
+        "english": "many / much",
+        "pronunciation": "MOHL-toh",
+        "examples": [
+            { "italian": "Ho molto lavoro.", "english": "I have a lot of work." },
+            { "italian": "Ci sono molte persone.", "english": "There are many people." },
+            { "italian": "Mi piace molto.", "english": "I like it a lot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "pochi",
+        "english": "few",
+        "pronunciation": "POH-kee",
+        "examples": [
+            { "italian": "Ci sono pochi amici.", "english": "There are few friends." },
+            { "italian": "Ho poco tempo.", "english": "I have little time." },
+            { "italian": "Conosco poche persone qui.", "english": "I know few people here." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Frequency & Quantifiers",
+        "italian": "solo",
+        "english": "only / just",
+        "pronunciation": "SOH-loh",
+        "examples": [
+            { "italian": "Solo io so la verità.", "english": "Only I know the truth." },
+            { "italian": "Ho solo cinque euro.", "english": "I only have five euros." },
+            { "italian": "Voglio solo te.", "english": "I only want you." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "qualcuno",
+        "english": "someone",
+        "pronunciation": "kwal-KOO-noh",
+        "examples": [
+            { "italian": "Qualcuno ha chiamato.", "english": "Someone called." },
+            { "italian": "Conosci qualcuno qui?", "english": "Do you know someone here?" },
+            { "italian": "Qualcuno mi ha detto.", "english": "Someone told me." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "chiunque",
+        "english": "anyone",
+        "pronunciation": "kee-OON-kweh",
+        "examples": [
+            { "italian": "Chiunque può farlo.", "english": "Anyone can do it." },
+            { "italian": "Chiunque vuoi invitare.", "english": "Invite anyone you want." },
+            { "italian": "Chiunque lo sa.", "english": "Anyone knows it." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "nessuno",
+        "english": "no one / nobody",
+        "pronunciation": "nes-SOO-noh",
+        "examples": [
+            { "italian": "Nessuno è venuto.", "english": "No one came." },
+            { "italian": "Non conosco nessuno.", "english": "I don't know anyone." },
+            { "italian": "Nessuno sa la risposta.", "english": "Nobody knows the answer." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "qualcosa",
+        "english": "something",
+        "pronunciation": "kwal-KOH-zah",
+        "examples": [
+            { "italian": "Ho qualcosa da dirti.", "english": "I have something to tell you." },
+            { "italian": "Vuoi qualcosa da bere?", "english": "Do you want something to drink?" },
+            { "italian": "C'è qualcosa di strano.", "english": "There's something strange." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "qualsiasi",
+        "english": "anything",
+        "pronunciation": "kwal-see-AH-see",
+        "examples": [
+            { "italian": "Puoi scegliere qualsiasi cosa.", "english": "You can choose anything." },
+            { "italian": "Fammi qualsiasi domanda.", "english": "Ask me anything." },
+            { "italian": "Qualsiasi cosa è possibile.", "english": "Anything is possible." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "niente",
+        "english": "nothing",
+        "pronunciation": "nee-EN-teh",
+        "examples": [
+            { "italian": "Non ho niente da dire.", "english": "I have nothing to say." },
+            { "italian": "Non c'è niente di male.", "english": "There's nothing wrong." },
+            { "italian": "Niente è per sempre.", "english": "Nothing is forever." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "me",
+        "english": "me",
+        "pronunciation": "meh",
+        "examples": [
+            { "italian": "Guardami.", "english": "Look at me." },
+            { "italian": "Mi piace.", "english": "I like it (to me it pleases)." },
+            { "italian": "Dammi la mano.", "english": "Give me your hand." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "te",
+        "english": "you",
+        "pronunciation": "teh",
+        "examples": [
+            { "italian": "Guardo te.", "english": "I'm looking at you." },
+            { "italian": "Ti amo.", "english": "I love you." },
+            { "italian": "Per te.", "english": "For you." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "lui",
+        "english": "him",
+        "pronunciation": "loo-ee",
+        "examples": [
+            { "italian": "Vedo lui.", "english": "I see him." },
+            { "italian": "Con lui.", "english": "With him." },
+            { "italian": "Parla di lui.", "english": "Talk about him." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Pronouns & Indefinites",
+        "italian": "lei",
+        "english": "her",
+        "pronunciation": "lay",
+        "examples": [
+            { "italian": "Vedo lei.", "english": "I see her." },
+            { "italian": "Con lei.", "english": "With her." },
+            { "italian": "Parla di lei.", "english": "Talk about her." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "bene",
+        "english": "good",
+        "pronunciation": "BEH-neh",
+        "examples": [
+            { "italian": "Questo è bene.", "english": "This is good." },
+            { "italian": "Come stai? Bene, grazie.", "english": "How are you? Good, thanks." },
+            { "italian": "Il cibo è molto bene.", "english": "The food is very good." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "male",
+        "english": "bad",
+        "pronunciation": "MAH-leh",
+        "examples": [
+            { "italian": "Questo è male.", "english": "This is bad." },
+            { "italian": "Non mi sento bene, mi sento male.", "english": "I don't feel well, I feel bad." },
+            { "italian": "È una male idea.", "english": "It's a bad idea." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "meglio",
+        "english": "better",
+        "pronunciation": "MEH-lyoh",
+        "examples": [
+            { "italian": "Questo è meglio.", "english": "This is better." },
+            { "italian": "Adesso sto meglio.", "english": "I feel better now." },
+            { "italian": "Che cosa è meglio, questo o quello?", "english": "What's better, this or that?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "peggio",
+        "english": "worse",
+        "pronunciation": "PEH-joh",
+        "examples": [
+            { "italian": "Questo è peggio.", "english": "This is worse." },
+            { "italian": "Sto peggio di prima.", "english": "I feel worse than before." },
+            { "italian": "È la peggio situazione.", "english": "It's the worst situation." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "grande",
+        "english": "big / large",
+        "pronunciation": "GRAHN-deh",
+        "examples": [
+            { "italian": "Una casa grande.", "english": "A big house." },
+            { "italian": "Che idea grande!", "english": "What a great idea!" },
+            { "italian": "È più grande di prima.", "english": "It's bigger than before." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "piccolo",
+        "english": "small / little",
+        "pronunciation": "peek-KOH-loh",
+        "examples": [
+            { "italian": "Una casa piccola.", "english": "A small house." },
+            { "italian": "Un cane piccolo.", "english": "A small dog." },
+            { "italian": "È più piccolo di me.", "english": "He's smaller than me." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "lungo",
+        "english": "long",
+        "pronunciation": "LOON-goh",
+        "examples": [
+            { "italian": "Un capello lungo.", "english": "Long hair." },
+            { "italian": "Una strada lunga.", "english": "A long road." },
+            { "italian": "Quanto è lungo?", "english": "How long is it?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "corto",
+        "english": "short",
+        "pronunciation": "KOR-toh",
+        "examples": [
+            { "italian": "Capelli corti.", "english": "Short hair." },
+            { "italian": "Una strada corta.", "english": "A short road." },
+            { "italian": "Il viaggio è stato corto.", "english": "The trip was short." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "caldo",
+        "english": "hot",
+        "pronunciation": "KAHL-doh",
+        "examples": [
+            { "italian": "Fa caldo oggi.", "english": "It's hot today." },
+            { "italian": "Un giorno caldo.", "english": "A hot day." },
+            { "italian": "Il caffè è caldo.", "english": "The coffee is hot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "freddo",
+        "english": "cold",
+        "pronunciation": "FRED-doh",
+        "examples": [
+            { "italian": "Fa freddo stasera.", "english": "It's cold tonight." },
+            { "italian": "Un giorno freddo.", "english": "A cold day." },
+            { "italian": "L'acqua è fredda.", "english": "The water is cold." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "veloce",
+        "english": "fast",
+        "pronunciation": "veh-LOH-cheh",
+        "examples": [
+            { "italian": "Una macchina veloce.", "english": "A fast car." },
+            { "italian": "Cammina veloce.", "english": "He walks fast." },
+            { "italian": "È il più veloce.", "english": "He's the fastest." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "lento",
+        "english": "slow",
+        "pronunciation": "LEN-toh",
+        "examples": [
+            { "italian": "Una macchina lenta.", "english": "A slow car." },
+            { "italian": "Cammina lento.", "english": "He walks slowly." },
+            { "italian": "Più lento, per favore.", "english": "Slower, please." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "facile",
+        "english": "easy",
+        "pronunciation": "FAH-chee-leh",
+        "examples": [
+            { "italian": "È facile.", "english": "It's easy." },
+            { "italian": "Un compito facile.", "english": "An easy task." },
+            { "italian": "Non è difficile, è facile.", "english": "It's not difficult, it's easy." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "difficile",
+        "english": "difficult / hard",
+        "pronunciation": "deef-fee-CHEE-leh",
+        "examples": [
+            { "italian": "È difficile.", "english": "It's difficult." },
+            { "italian": "Un esame difficile.", "english": "A hard exam." },
+            { "italian": "Questo è molto difficile.", "english": "This is very difficult." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "uguale",
+        "english": "same",
+        "pronunciation": "oo-gwah-LEH",
+        "examples": [
+            { "italian": "Sono uguali.", "english": "They are the same." },
+            { "italian": "Lo stesso vestito, uguale al tuo.", "english": "The same dress, same as yours." },
+            { "italian": "Mi piace lo stesso uguale.", "english": "I like it the same." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "diverso",
+        "english": "different",
+        "pronunciation": "dee-VER-soh",
+        "examples": [
+            { "italian": "Sono diversi.", "english": "They are different." },
+            { "italian": "Un colore diverso.", "english": "A different color." },
+            { "italian": "Questo è diverso da quello.", "english": "This is different from that." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "più",
+        "english": "more",
+        "pronunciation": "pyoo",
+        "examples": [
+            { "italian": "Voglio più pane.", "english": "I want more bread." },
+            { "italian": "Più alto, per favore.", "english": "More/louder, please." },
+            { "italian": "È più bello di prima.", "english": "It's more beautiful than before." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Descriptive Basics",
+        "italian": "meno",
+        "english": "less",
+        "pronunciation": "MEH-noh",
+        "examples": [
+            { "italian": "Voglio meno zucchero.", "english": "I want less sugar." },
+            { "italian": "Più lentamente, meno veloce.", "english": "More slowly, less fast." },
+            { "italian": "È meno bello.", "english": "It's less beautiful." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "forse",
+        "english": "maybe / perhaps",
+        "pronunciation": "FOR-seh",
+        "examples": [
+            { "italian": "Forse domani.", "english": "Maybe tomorrow." },
+            { "italian": "Forse sì, forse no.", "english": "Maybe yes, maybe no." },
+            { "italian": "Forse verrà.", "english": "Perhaps he'll come." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "veramente",
+        "english": "really",
+        "pronunciation": "veh-rah-MEN-teh",
+        "examples": [
+            { "italian": "Veramente non so.", "english": "I really don't know." },
+            { "italian": "È veramente bello.", "english": "It's really beautiful." },
+            { "italian": "Veramente? Non lo sapevo.", "english": "Really? I didn't know." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "molto",
+        "english": "very",
+        "pronunciation": "MOHL-toh",
+        "examples": [
+            { "italian": "È molto bello.", "english": "It's very beautiful." },
+            { "italian": "Mi piace molto.", "english": "I like it very much." },
+            { "italian": "È molto caldo.", "english": "It's very hot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "abbastanza",
+        "english": "quite / enough",
+        "pronunciation": "ahb-bahs-TAHN-zah",
+        "examples": [
+            { "italian": "È abbastanza bello.", "english": "It's quite beautiful." },
+            { "italian": "Ho abbastanza denaro.", "english": "I have enough money." },
+            { "italian": "Abbastanza bene, grazie.", "english": "Quite well, thanks." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "troppo",
+        "english": "too much",
+        "pronunciation": "TROHP-poh",
+        "examples": [
+            { "italian": "È troppo caldo.", "english": "It's too hot." },
+            { "italian": "Ho troppo lavoro.", "english": "I have too much work." },
+            { "italian": "Questo è troppo.", "english": "This is too much." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "quasi",
+        "english": "almost",
+        "pronunciation": "KWAH-see",
+        "examples": [
+            { "italian": "È quasi finito.", "english": "It's almost finished." },
+            { "italian": "Quasi tutti sono venuti.", "english": "Almost everyone came." },
+            { "italian": "Quasi dimenticavo.", "english": "I almost forgot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "già",
+        "english": "already",
+        "pronunciation": "jah",
+        "examples": [
+            { "italian": "Ho già mangiato.", "english": "I've already eaten." },
+            { "italian": "È già tardi.", "english": "It's already late." },
+            { "italian": "Lo so già.", "english": "I already know." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "ancora",
+        "english": "still / yet",
+        "pronunciation": "ahn-KOH-rah",
+        "examples": [
+            { "italian": "Ancora non so.", "english": "I still don't know." },
+            { "italian": "È ancora qui.", "english": "He's still here." },
+            { "italian": "Non è ancora finito.", "english": "It's not finished yet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "insieme",
+        "english": "together",
+        "pronunciation": "een-see-EH-meh",
+        "examples": [
+            { "italian": "Andiamo insieme.", "english": "Let's go together." },
+            { "italian": "Restiamo insieme.", "english": "Let's stay together." },
+            { "italian": "Con te, insieme.", "english": "With you, together." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "solo",
+        "english": "alone",
+        "pronunciation": "SOH-loh",
+        "examples": [
+            { "italian": "Voglio stare solo.", "english": "I want to be alone." },
+            { "italian": "Sono solo.", "english": "I'm alone." },
+            { "italian": "Vieni solo o con qualcuno?", "english": "Are you coming alone or with someone?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "possibile",
+        "english": "possible",
+        "pronunciation": "pohs-SEE-bee-leh",
+        "examples": [
+            { "italian": "È possibile.", "english": "It's possible." },
+            { "italian": "Non è possibile.", "english": "It's not possible." },
+            { "italian": "Tutto è possibile.", "english": "Everything is possible." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "impossibile",
+        "english": "impossible",
+        "pronunciation": "eem-pohs-SEE-bee-leh",
+        "examples": [
+            { "italian": "È impossibile.", "english": "It's impossible." },
+            { "italian": "Non è impossibile, è possibile.", "english": "It's not impossible, it's possible." },
+            { "italian": "Questo è impossibile per me.", "english": "This is impossible for me." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "bastare",
+        "english": "enough / to be enough",
+        "pronunciation": "bahs-TAH-reh",
+        "examples": [
+            { "italian": "Questo basta.", "english": "This is enough." },
+            { "italian": "Non basta.", "english": "It's not enough." },
+            { "italian": "Basta così.", "english": "That's enough." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "anche",
+        "english": "also / too",
+        "pronunciation": "AHN-keh",
+        "examples": [
+            { "italian": "Vieni anche tu?", "english": "Are you coming too?" },
+            { "italian": "Mi piace anche il rosso.", "english": "I also like red." },
+            { "italian": "Voglio venire anche io.", "english": "I want to come too." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "neanche",
+        "english": "neither / not even",
+        "pronunciation": "neh-AHN-keh",
+        "examples": [
+            { "italian": "Neanche io vado.", "english": "I'm not going either." },
+            { "italian": "Non mi piace neanche un po'.", "english": "I don't like it even a little." },
+            { "italian": "Neanche lui lo sa.", "english": "He doesn't even know." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Useful Adverbs & Expressions",
+        "italian": "soltanto",
+        "english": "only / just",
+        "pronunciation": "sohl-TAHN-toh",
+        "examples": [
+            { "italian": "Soltanto io lo so.", "english": "Only I know." },
+            { "italian": "Ho soltanto cinque euro.", "english": "I have only five euros." },
+            { "italian": "Voglio soltanto te.", "english": "I only want you." }
+        ]
+    }
+]

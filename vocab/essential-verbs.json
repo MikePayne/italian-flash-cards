@@ -1,0 +1,679 @@
+[
+    {
+        "type": "verb",
+        "italian": "essere",
+        "english": "to be (permanent/identity)",
+        "pronunciation": "es-SEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "sono" },
+                { "person": "tu", "form": "sei" },
+                { "person": "lui/lei", "form": "è" },
+                { "person": "noi", "form": "siamo" },
+                { "person": "voi", "form": "siete" },
+                { "person": "loro", "form": "sono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Io sono americano.", "english": "I am American." },
+            { "italian": "Sei un professore?", "english": "Are you a professor?" },
+            { "italian": "Loro sono felici.", "english": "They are happy." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "avere",
+        "english": "to have",
+        "pronunciation": "ah-VEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "ho" },
+                { "person": "tu", "form": "hai" },
+                { "person": "lui/lei", "form": "ha" },
+                { "person": "noi", "form": "abbiamo" },
+                { "person": "voi", "form": "avete" },
+                { "person": "loro", "form": "hanno" }
+            ]
+        },
+        "examples": [
+            { "italian": "Ho un gatto.", "english": "I have a cat." },
+            { "italian": "Hai una macchina?", "english": "Do you have a car?" },
+            { "italian": "Loro hanno due bambini.", "english": "They have two children." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "andare",
+        "english": "to go",
+        "pronunciation": "ahn-DAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "vado" },
+                { "person": "tu", "form": "vai" },
+                { "person": "lui/lei", "form": "va" },
+                { "person": "noi", "form": "andiamo" },
+                { "person": "voi", "form": "andate" },
+                { "person": "loro", "form": "vanno" }
+            ]
+        },
+        "examples": [
+            { "italian": "Vado al cinema.", "english": "I go to the cinema." },
+            { "italian": "Dove vai?", "english": "Where are you going?" },
+            { "italian": "Andiamo in vacanza domani.", "english": "We're going on vacation tomorrow." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "fare",
+        "english": "to do, to make",
+        "pronunciation": "FAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "faccio" },
+                { "person": "tu", "form": "fai" },
+                { "person": "lui/lei", "form": "fa" },
+                { "person": "noi", "form": "facciamo" },
+                { "person": "voi", "form": "fate" },
+                { "person": "loro", "form": "fanno" }
+            ]
+        },
+        "examples": [
+            { "italian": "Faccio colazione ogni mattina.", "english": "I have breakfast every morning." },
+            { "italian": "Che cosa fai?", "english": "What are you doing?" },
+            { "italian": "Fa caldo oggi.", "english": "It's hot today." },
+            { "italian": "Faccio una foto.", "english": "I take a photo." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "dire",
+        "english": "to say, to tell",
+        "pronunciation": "DEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "dico" },
+                { "person": "tu", "form": "dici" },
+                { "person": "lui/lei", "form": "dice" },
+                { "person": "noi", "form": "diciamo" },
+                { "person": "voi", "form": "dite" },
+                { "person": "loro", "form": "dicono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Dico la verità.", "english": "I tell the truth." },
+            { "italian": "Mi dici il tuo nome?", "english": "Do you tell me your name?" },
+            { "italian": "Loro dicono che è bello.", "english": "They say that it's beautiful." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "venire",
+        "english": "to come",
+        "pronunciation": "veh-NEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "vengo" },
+                { "person": "tu", "form": "vieni" },
+                { "person": "lui/lei", "form": "viene" },
+                { "person": "noi", "form": "veniamo" },
+                { "person": "voi", "form": "venite" },
+                { "person": "loro", "form": "vengono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Vengo a casa tua domani.", "english": "I'm coming to your house tomorrow." },
+            { "italian": "Vieni con noi?", "english": "Are you coming with us?" },
+            { "italian": "Loro vengono da Roma.", "english": "They come from Rome." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "volere",
+        "english": "to want, to wish",
+        "pronunciation": "voh-LEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "voglio" },
+                { "person": "tu", "form": "vuoi" },
+                { "person": "lui/lei", "form": "vuole" },
+                { "person": "noi", "form": "vogliamo" },
+                { "person": "voi", "form": "volete" },
+                { "person": "loro", "form": "vogliono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Voglio un caffè.", "english": "I want a coffee." },
+            { "italian": "Vuoi venire con me?", "english": "Do you want to come with me?" },
+            { "italian": "Loro vogliono imparare l'italiano.", "english": "They want to learn Italian." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "potere",
+        "english": "to be able to, can, may",
+        "pronunciation": "poh-TEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "posso" },
+                { "person": "tu", "form": "puoi" },
+                { "person": "lui/lei", "form": "può" },
+                { "person": "noi", "form": "possiamo" },
+                { "person": "voi", "form": "potete" },
+                { "person": "loro", "form": "possono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Posso aiutarti?", "english": "Can I help you?" },
+            { "italian": "Non puoi andare lì.", "english": "You can't go there." },
+            { "italian": "Loro possono venire stasera.", "english": "They can come tonight." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "dovere",
+        "english": "to have to, must, should",
+        "pronunciation": "doh-VEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "devo" },
+                { "person": "tu", "form": "devi" },
+                { "person": "lui/lei", "form": "deve" },
+                { "person": "noi", "form": "dobbiamo" },
+                { "person": "voi", "form": "dovete" },
+                { "person": "loro", "form": "devono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Devo andare al lavoro.", "english": "I have to go to work." },
+            { "italian": "Devi finire i compiti.", "english": "You have to finish your homework." },
+            { "italian": "Loro devono partire domani.", "english": "They have to leave tomorrow." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "dare",
+        "english": "to give",
+        "pronunciation": "DAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "do" },
+                { "person": "tu", "form": "dai" },
+                { "person": "lui/lei", "form": "dà" },
+                { "person": "noi", "form": "diamo" },
+                { "person": "voi", "form": "date" },
+                { "person": "loro", "form": "danno" }
+            ]
+        },
+        "examples": [
+            { "italian": "Do un regalo a Maria.", "english": "I give a gift to Maria." },
+            { "italian": "Mi dai il tuo numero?", "english": "Do you give me your number?" },
+            { "italian": "Loro danno il denaro ai poveri.", "english": "They give money to the poor." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "stare",
+        "english": "to stay, to be (location/condition)",
+        "pronunciation": "STAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "sto" },
+                { "person": "tu", "form": "stai" },
+                { "person": "lui/lei", "form": "sta" },
+                { "person": "noi", "form": "stiamo" },
+                { "person": "voi", "form": "state" },
+                { "person": "loro", "form": "stanno" }
+            ]
+        },
+        "examples": [
+            { "italian": "Sto a casa oggi.", "english": "I'm staying at home today." },
+            { "italian": "Come stai?", "english": "How are you?" },
+            { "italian": "Loro stanno bene.", "english": "They are doing well." },
+            { "italian": "Sto leggendo un libro.", "english": "I am reading a book (present continuous)." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "vedere",
+        "english": "to see",
+        "pronunciation": "veh-DEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "vedo" },
+                { "person": "tu", "form": "vedi" },
+                { "person": "lui/lei", "form": "vede" },
+                { "person": "noi", "form": "vediamo" },
+                { "person": "voi", "form": "vedete" },
+                { "person": "loro", "form": "vedono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Vedo un film stasera.", "english": "I'm seeing a movie tonight." },
+            { "italian": "Vedi quel albero?", "english": "Do you see that tree?" },
+            { "italian": "Loro vedono i loro amici ogni settimana.", "english": "They see their friends every week." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "sapere",
+        "english": "to know (facts, information)",
+        "pronunciation": "sah-PEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "so" },
+                { "person": "tu", "form": "sai" },
+                { "person": "lui/lei", "form": "sa" },
+                { "person": "noi", "form": "sappiamo" },
+                { "person": "voi", "form": "sapete" },
+                { "person": "loro", "form": "sanno" }
+            ]
+        },
+        "examples": [
+            { "italian": "So la risposta.", "english": "I know the answer." },
+            { "italian": "Sai dove è la stazione?", "english": "Do you know where the station is?" },
+            { "italian": "Loro sanno parlare italiano.", "english": "They know how to speak Italian." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "conoscere",
+        "english": "to know (people, places)",
+        "pronunciation": "koh-NOSH-eh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "conosco" },
+                { "person": "tu", "form": "conosci" },
+                { "person": "lui/lei", "form": "conosce" },
+                { "person": "noi", "form": "conosciamo" },
+                { "person": "voi", "form": "conoscete" },
+                { "person": "loro", "form": "conoscono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Conosco Maria da molti anni.", "english": "I've known Maria for many years." },
+            { "italian": "Conosci Roma?", "english": "Do you know Rome?" },
+            { "italian": "Loro conoscono il proprietario.", "english": "They know the owner." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "parlare",
+        "english": "to speak, to talk",
+        "pronunciation": "par-LAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "parlo" },
+                { "person": "tu", "form": "parli" },
+                { "person": "lui/lei", "form": "parla" },
+                { "person": "noi", "form": "parliamo" },
+                { "person": "voi", "form": "parlate" },
+                { "person": "loro", "form": "parlano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Parlo italiano.", "english": "I speak Italian." },
+            { "italian": "Parli inglese?", "english": "Do you speak English?" },
+            { "italian": "Loro parlano del loro viaggio.", "english": "They are talking about their trip." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "portare",
+        "english": "to bring, to carry, to wear, to lead",
+        "pronunciation": "por-TAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "porto" },
+                { "person": "tu", "form": "porti" },
+                { "person": "lui/lei", "form": "porta" },
+                { "person": "noi", "form": "portiamo" },
+                { "person": "voi", "form": "portate" },
+                { "person": "loro", "form": "portano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Porto il mio amico a casa.", "english": "I bring my friend home." },
+            { "italian": "Porti una valigia?", "english": "Are you carrying a suitcase?" },
+            { "italian": "Indosso un vestito blu.", "english": "I wear a blue dress." },
+            { "italian": "Questa strada porta al centro.", "english": "This road leads to the center." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "prendere",
+        "english": "to take, to grab, to catch, to have (food/drink)",
+        "pronunciation": "PREN-deh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "prendo" },
+                { "person": "tu", "form": "prendi" },
+                { "person": "lui/lei", "form": "prende" },
+                { "person": "noi", "form": "prendiamo" },
+                { "person": "voi", "form": "prendete" },
+                { "person": "loro", "form": "prendono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Prendo il treno alle 8.", "english": "I take the train at 8." },
+            { "italian": "Prendi un caffè?", "english": "Do you want to have a coffee?" },
+            { "italian": "Ha preso la febbre.", "english": "He caught a fever." },
+            { "italian": "Mi prendi in giro.", "english": "You're teasing me." },
+            { "italian": "Loro prendono il sole in spiaggia.", "english": "They sunbathe on the beach." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "mangiare",
+        "english": "to eat",
+        "pronunciation": "man-jah-REH",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "mangio" },
+                { "person": "tu", "form": "mangi" },
+                { "person": "lui/lei", "form": "mangia" },
+                { "person": "noi", "form": "mangiamo" },
+                { "person": "voi", "form": "mangiate" },
+                { "person": "loro", "form": "mangiano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Mangio la pasta ogni giorno.", "english": "I eat pasta every day." },
+            { "italian": "Mangi carne?", "english": "Do you eat meat?" },
+            { "italian": "Loro mangiano al ristorante.", "english": "They eat at the restaurant." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "bere",
+        "english": "to drink",
+        "pronunciation": "BEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "bevo" },
+                { "person": "tu", "form": "bevi" },
+                { "person": "lui/lei", "form": "beve" },
+                { "person": "noi", "form": "beviamo" },
+                { "person": "voi", "form": "bevete" },
+                { "person": "loro", "form": "bevono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Bevo acqua ogni mattina.", "english": "I drink water every morning." },
+            { "italian": "Bevi vino?", "english": "Do you drink wine?" },
+            { "italian": "Loro bevono birra.", "english": "They drink beer." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "aprire",
+        "english": "to open",
+        "pronunciation": "ah-PREE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "apro" },
+                { "person": "tu", "form": "apri" },
+                { "person": "lui/lei", "form": "apre" },
+                { "person": "noi", "form": "apriamo" },
+                { "person": "voi", "form": "aprite" },
+                { "person": "loro", "form": "aprono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Apro la porta.", "english": "I open the door." },
+            { "italian": "Apri la finestra?", "english": "Do you open the window?" },
+            { "italian": "Loro aprono un negozio.", "english": "They are opening a shop." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "chiudere",
+        "english": "to close, to shut",
+        "pronunciation": "KYOO-deh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "chiudo" },
+                { "person": "tu", "form": "chiudi" },
+                { "person": "lui/lei", "form": "chiude" },
+                { "person": "noi", "form": "chiudiamo" },
+                { "person": "voi", "form": "chiudete" },
+                { "person": "loro", "form": "chiudono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Chiudo la porta.", "english": "I close the door." },
+            { "italian": "Chiudi la finestra?", "english": "Do you close the window?" },
+            { "italian": "Il negozio chiude alle 18.", "english": "The shop closes at 6 PM." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "trovare",
+        "english": "to find",
+        "pronunciation": "troh-VAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "trovo" },
+                { "person": "tu", "form": "trovi" },
+                { "person": "lui/lei", "form": "trova" },
+                { "person": "noi", "form": "troviamo" },
+                { "person": "voi", "form": "trovate" },
+                { "person": "loro", "form": "trovano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Trovo le chiavi.", "english": "I find the keys." },
+            { "italian": "Trovi la strada?", "english": "Do you find the road?" },
+            { "italian": "Loro trovano il film interessante.", "english": "They find the movie interesting." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "pensare",
+        "english": "to think",
+        "pronunciation": "pen-SAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "penso" },
+                { "person": "tu", "form": "pensi" },
+                { "person": "lui/lei", "form": "pensa" },
+                { "person": "noi", "form": "pensiamo" },
+                { "person": "voi", "form": "pensate" },
+                { "person": "loro", "form": "pensano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Penso che è bello.", "english": "I think it's beautiful." },
+            { "italian": "Che cosa pensi?", "english": "What do you think?" },
+            { "italian": "Loro pensano al loro futuro.", "english": "They think about their future." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "partire",
+        "english": "to leave, to depart",
+        "pronunciation": "par-TEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "parto" },
+                { "person": "tu", "form": "parti" },
+                { "person": "lui/lei", "form": "parte" },
+                { "person": "noi", "form": "partiamo" },
+                { "person": "voi", "form": "partite" },
+                { "person": "loro", "form": "partono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Parto domani mattina.", "english": "I leave tomorrow morning." },
+            { "italian": "Quando parti?", "english": "When do you leave?" },
+            { "italian": "Loro partono per Roma.", "english": "They are leaving for Rome." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "sentire",
+        "english": "to feel, to hear, to smell",
+        "pronunciation": "sen-TEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "sento" },
+                { "person": "tu", "form": "senti" },
+                { "person": "lui/lei", "form": "sente" },
+                { "person": "noi", "form": "sentiamo" },
+                { "person": "voi", "form": "sentite" },
+                { "person": "loro", "form": "sentono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Sento dolore.", "english": "I feel pain." },
+            { "italian": "Senti quella musica?", "english": "Do you hear that music?" },
+            { "italian": "Loro sentono un profumo.", "english": "They smell a fragrance." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "scrivere",
+        "english": "to write",
+        "pronunciation": "SKREE-veh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "scrivo" },
+                { "person": "tu", "form": "scrivi" },
+                { "person": "lui/lei", "form": "scrive" },
+                { "person": "noi", "form": "scriviamo" },
+                { "person": "voi", "form": "scrivete" },
+                { "person": "loro", "form": "scrivono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Scrivo una lettera.", "english": "I write a letter." },
+            { "italian": "Scrivi il tuo nome?", "english": "Do you write your name?" },
+            { "italian": "Loro scrivono un libro.", "english": "They write a book." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "leggere",
+        "english": "to read",
+        "pronunciation": "LED-jeh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "leggo" },
+                { "person": "tu", "form": "leggi" },
+                { "person": "lui/lei", "form": "legge" },
+                { "person": "noi", "form": "leggiamo" },
+                { "person": "voi", "form": "leggete" },
+                { "person": "loro", "form": "leggono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Leggo un libro.", "english": "I read a book." },
+            { "italian": "Leggi il giornale?", "english": "Do you read the newspaper?" },
+            { "italian": "Loro leggono una storia.", "english": "They read a story." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "capire",
+        "english": "to understand",
+        "pronunciation": "kah-PEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "capisco" },
+                { "person": "tu", "form": "capisci" },
+                { "person": "lui/lei", "form": "capisce" },
+                { "person": "noi", "form": "capiamo" },
+                { "person": "voi", "form": "capite" },
+                { "person": "loro", "form": "capiscono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Capisco l'italiano.", "english": "I understand Italian." },
+            { "italian": "Capisci quello che dico?", "english": "Do you understand what I'm saying?" },
+            { "italian": "Loro capiscono il problema.", "english": "They understand the problem." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "dormire",
+        "english": "to sleep",
+        "pronunciation": "dor-MEE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "dormo" },
+                { "person": "tu", "form": "dormi" },
+                { "person": "lui/lei", "form": "dorme" },
+                { "person": "noi", "form": "dormiamo" },
+                { "person": "voi", "form": "dormite" },
+                { "person": "loro", "form": "dormono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Dormo otto ore ogni notte.", "english": "I sleep eight hours every night." },
+            { "italian": "Dormi bene?", "english": "Do you sleep well?" },
+            { "italian": "Loro dormono nel pomeriggio.", "english": "They sleep in the afternoon." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "vivere",
+        "english": "to live",
+        "pronunciation": "VEE-veh-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "vivo" },
+                { "person": "tu", "form": "vivi" },
+                { "person": "lui/lei", "form": "vive" },
+                { "person": "noi", "form": "viviamo" },
+                { "person": "voi", "form": "vivete" },
+                { "person": "loro", "form": "vivono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Vivo a Londra.", "english": "I live in London." },
+            { "italian": "Dove vivi?", "english": "Where do you live?" },
+            { "italian": "Loro vivono in Italia.", "english": "They live in Italy." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "rimanere",
+        "english": "to remain, to stay",
+        "pronunciation": "ree-mah-NEH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "rimango" },
+                { "person": "tu", "form": "rimani" },
+                { "person": "lui/lei", "form": "rimane" },
+                { "person": "noi", "form": "rimaniamo" },
+                { "person": "voi", "form": "rimanete" },
+                { "person": "loro", "form": "rimangono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Rimango a casa.", "english": "I stay at home." },
+            { "italian": "Rimani con noi?", "english": "Do you stay with us?" },
+            { "italian": "Loro rimangono per una settimana.", "english": "They stay for a week." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "morire",
+        "english": "to die",
+        "pronunciation": "moh-REE-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "muoio" },
+                { "person": "tu", "form": "muori" },
+                { "person": "lui/lei", "form": "muore" },
+                { "person": "noi", "form": "moriamo" },
+                { "person": "voi", "form": "morite" },
+                { "person": "loro", "form": "muoiono" }
+            ]
+        },
+        "examples": [
+            { "italian": "Muoio di fame.", "english": "I'm dying of hunger." },
+            { "italian": "Sta morendo.", "english": "He is dying." },
+            { "italian": "Loro muoiono di curiosità.", "english": "They are dying of curiosity." }
+        ]
+    }
+]

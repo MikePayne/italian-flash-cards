@@ -1,0 +1,1248 @@
+[
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Aiuto!",
+        "english": "Help!",
+        "pronunciation": "ah-YOO-toh",
+        "examples": [
+            { "italian": "Aiuto! Ho bisogno di un medico.", "english": "Help! I need a doctor." },
+            { "italian": "Aiuto! Qualcuno mi aiuti!", "english": "Help! Someone help me!" },
+            { "italian": "Aiuto, mi fa male tutto!", "english": "Help, everything hurts!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Emergenza!",
+        "english": "Emergency!",
+        "pronunciation": "eh-mer-JEN-zah",
+        "examples": [
+            { "italian": "Emergenza! Chiama un'ambulanza!", "english": "Emergency! Call an ambulance!" },
+            { "italian": "È un'emergenza medica.", "english": "It's a medical emergency." },
+            { "italian": "Emergenza! Dove è l'ospedale?", "english": "Emergency! Where is the hospital?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Chiama un'ambulanza",
+        "english": "Call an ambulance",
+        "pronunciation": "kee-AH-mah oon-ahm-boo-LAHN-tsah",
+        "examples": [
+            { "italian": "Chiama un'ambulanza, per favore!", "english": "Call an ambulance, please!" },
+            { "italian": "Ho bisogno di un'ambulanza.", "english": "I need an ambulance." },
+            { "italian": "Chiama subito un'ambulanza.", "english": "Call an ambulance right away." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Chiama un medico",
+        "english": "Call a doctor",
+        "pronunciation": "kee-AH-mah oon MEH-dee-koh",
+        "examples": [
+            { "italian": "Chiama un medico, sono malato.", "english": "Call a doctor, I'm sick." },
+            { "italian": "Ho bisogno di un medico.", "english": "I need a doctor." },
+            { "italian": "Chiama subito un medico.", "english": "Call a doctor right away." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Ho bisogno di un medico",
+        "english": "I need a doctor",
+        "pronunciation": "oh bee-ZOHN-yoh dee oon MEH-dee-koh",
+        "examples": [
+            { "italian": "Ho bisogno di un medico adesso.", "english": "I need a doctor now." },
+            { "italian": "Ho bisogno di un medico urgentemente.", "english": "I need a doctor urgently." },
+            { "italian": "Ho bisogno di un medico per questo dolore.", "english": "I need a doctor for this pain." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Ospedale",
+        "english": "Hospital",
+        "pronunciation": "ohs-peh-DAH-leh",
+        "examples": [
+            { "italian": "Dov'è l'ospedale più vicino?", "english": "Where is the nearest hospital?" },
+            { "italian": "Portami all'ospedale.", "english": "Take me to the hospital." },
+            { "italian": "Ho bisogno di andare all'ospedale.", "english": "I need to go to the hospital." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Farmacia",
+        "english": "Pharmacy",
+        "pronunciation": "far-mah-CHEE-ah",
+        "examples": [
+            { "italian": "Dov'è la farmacia?", "english": "Where is the pharmacy?" },
+            { "italian": "Ho bisogno di andare in farmacia.", "english": "I need to go to the pharmacy." },
+            { "italian": "Dov'è la farmacia più vicina?", "english": "Where is the nearest pharmacy?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Studio medico",
+        "english": "Clinic / Doctor's office",
+        "pronunciation": "STOO-dee-oh MEH-dee-koh",
+        "examples": [
+            { "italian": "Dov'è lo studio medico?", "english": "Where is the doctor's office?" },
+            { "italian": "Devo andare allo studio medico.", "english": "I need to go to the clinic." },
+            { "italian": "Puoi portarmi allo studio medico?", "english": "Can you take me to the doctor's office?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Sto avendo un infarto",
+        "english": "I'm having a heart attack",
+        "pronunciation": "stoh ah-VEN-doh oon een-FAR-toh",
+        "examples": [
+            { "italian": "Sto avendo un infarto! Chiama un'ambulanza!", "english": "I'm having a heart attack! Call an ambulance!" },
+            { "italian": "Ho dolore al petto, penso che sia un infarto.", "english": "I have chest pain, I think it's a heart attack." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Mi sto strozzando",
+        "english": "I'm choking",
+        "pronunciation": "mee STOH strohts-DAHN-doh",
+        "examples": [
+            { "italian": "Mi sto strozzando! Aiuto!", "english": "I'm choking! Help!" },
+            { "italian": "Qualcuno mi sta strozzando.", "english": "Someone is choking." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Sto sanguinando",
+        "english": "I'm bleeding",
+        "pronunciation": "stoh sahn-gwee-NAHN-doh",
+        "examples": [
+            { "italian": "Sto sanguinando molto.", "english": "I'm bleeding a lot." },
+            { "italian": "Ho una ferita e sto sanguinando.", "english": "I have a wound and I'm bleeding." },
+            { "italian": "Non riesco a fermare il sanguinamento.", "english": "I can't stop the bleeding." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Sono ferito",
+        "english": "I've been injured",
+        "pronunciation": "SOH-noh feh-REE-toh",
+        "examples": [
+            { "italian": "Sono ferito e ho bisogno di aiuto.", "english": "I'm injured and I need help." },
+            { "italian": "Sono stato ferito in un incidente.", "english": "I was injured in an accident." },
+            { "italian": "Ho una ferita grave.", "english": "I have a serious injury." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Veleno / Ho ingerito veleno",
+        "english": "Poison / I've been poisoned",
+        "pronunciation": "veh-LEH-noh / oh een-jeh-REE-toh VEH-leh-noh",
+        "examples": [
+            { "italian": "Ho ingerito del veleno!", "english": "I've been poisoned!" },
+            { "italian": "Ho mangiato qualcosa di tossico.", "english": "I ate something toxic." },
+            { "italian": "È veleno, non mangiarlo!", "english": "It's poison, don't eat it!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Fuoco!",
+        "english": "Fire!",
+        "pronunciation": "foo-OH-koh",
+        "examples": [
+            { "italian": "Fuoco! Chiama i pompieri!", "english": "Fire! Call the fire department!" },
+            { "italian": "C'è un fuoco nell'edificio!", "english": "There's a fire in the building!" },
+            { "italian": "Fuoco! Evacuate!", "english": "Fire! Evacuate!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Emergency Phrases",
+        "italian": "Sono svenuto",
+        "english": "I'm unconscious / I've fainted",
+        "pronunciation": "SOH-noh svehn-OO-toh",
+        "examples": [
+            { "italian": "Mi sento male, temo di svenire.", "english": "I feel bad, I think I'm going to faint." },
+            { "italian": "È svenuto, chiama un'ambulanza.", "english": "He's unconscious, call an ambulance." },
+            { "italian": "Ho quasi perso conoscenza.", "english": "I almost lost consciousness." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "testa",
+        "english": "head",
+        "pronunciation": "TES-tah",
+        "examples": [
+            { "italian": "Ho mal di testa.", "english": "I have a headache." },
+            { "italian": "Mi fa male la testa.", "english": "My head hurts." },
+            { "italian": "Mi sono sbattuto la testa.", "english": "I hit my head." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "viso",
+        "english": "face",
+        "pronunciation": "VEE-zoh",
+        "examples": [
+            { "italian": "Ho un'eruzione cutanea sul viso.", "english": "I have a rash on my face." },
+            { "italian": "Il mio viso è gonfo.", "english": "My face is swollen." },
+            { "italian": "Mi fa male il viso.", "english": "My face hurts." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "capelli",
+        "english": "hair",
+        "pronunciation": "kah-PEL-lee",
+        "examples": [
+            { "italian": "Sto perdendo i capelli.", "english": "I'm losing my hair." },
+            { "italian": "Ho prurito ai capelli.", "english": "My hair itches." },
+            { "italian": "I miei capelli sono sporchi.", "english": "My hair is dirty." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "occhio",
+        "english": "eye",
+        "pronunciation": "OH-kee-oh",
+        "examples": [
+            { "italian": "Mi fa male l'occhio.", "english": "My eye hurts." },
+            { "italian": "Ho dolore agli occhi.", "english": "I have eye pain." },
+            { "italian": "Non riesco a vedere bene con questo occhio.", "english": "I can't see well with this eye." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "orecchio",
+        "english": "ear",
+        "pronunciation": "oh-REK-kee-oh",
+        "examples": [
+            { "italian": "Ho dolore all'orecchio.", "english": "I have ear pain." },
+            { "italian": "Mi esce pus dall'orecchio.", "english": "I have discharge from my ear." },
+            { "italian": "Non riesco a sentire bene dall'orecchio sinistro.", "english": "I can't hear well in my left ear." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "naso",
+        "english": "nose",
+        "pronunciation": "NAH-zoh",
+        "examples": [
+            { "italian": "Ho il naso chiuso.", "english": "My nose is blocked." },
+            { "italian": "Mi sanguina il naso.", "english": "My nose is bleeding." },
+            { "italian": "Non riesco a respirare dal naso.", "english": "I can't breathe through my nose." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "bocca",
+        "english": "mouth",
+        "pronunciation": "BOH-kah",
+        "examples": [
+            { "italian": "Mi fa male la bocca.", "english": "My mouth hurts." },
+            { "italian": "Ho la bocca secca.", "english": "My mouth is dry." },
+            { "italian": "Ho un brutto sapore in bocca.", "english": "I have a bad taste in my mouth." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "denti",
+        "english": "teeth",
+        "pronunciation": "DEN-tee",
+        "examples": [
+            { "italian": "Mi fanno male i denti.", "english": "My teeth hurt." },
+            { "italian": "Ho un dente rotto.", "english": "I have a broken tooth." },
+            { "italian": "Devo andare dal dentista.", "english": "I need to go to the dentist." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "lingua",
+        "english": "tongue",
+        "pronunciation": "LING-gwah",
+        "examples": [
+            { "italian": "Mi fa male la lingua.", "english": "My tongue hurts." },
+            { "italian": "Ho la lingua gonfia.", "english": "My tongue is swollen." },
+            { "italian": "Mi si è morsa la lingua.", "english": "I bit my tongue." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "gola",
+        "english": "throat",
+        "pronunciation": "GOH-lah",
+        "examples": [
+            { "italian": "Ho mal di gola.", "english": "I have a sore throat." },
+            { "italian": "Mi fa male la gola quando deglutisco.", "english": "My throat hurts when I swallow." },
+            { "italian": "Ho la gola infiammata.", "english": "My throat is inflamed." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "collo",
+        "english": "neck",
+        "pronunciation": "KOL-loh",
+        "examples": [
+            { "italian": "Ho torcicollo.", "english": "I have a stiff neck." },
+            { "italian": "Mi fa male il collo.", "english": "My neck hurts." },
+            { "italian": "Non riesco a girare il collo.", "english": "I can't turn my neck." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "spalla",
+        "english": "shoulder",
+        "pronunciation": "spahl-LAH",
+        "examples": [
+            { "italian": "Mi fa male la spalla.", "english": "My shoulder hurts." },
+            { "italian": "Ho la spalla lussata.", "english": "My shoulder is dislocated." },
+            { "italian": "Sollevo il braccio e mi fa male la spalla.", "english": "I raise my arm and my shoulder hurts." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "braccio",
+        "english": "arm",
+        "pronunciation": "BRAH-choh",
+        "examples": [
+            { "italian": "Mi fa male il braccio.", "english": "My arm hurts." },
+            { "italian": "Ho il braccio rotto.", "english": "I have a broken arm." },
+            { "italian": "Non riesco a muovere il braccio.", "english": "I can't move my arm." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "gomito",
+        "english": "elbow",
+        "pronunciation": "GOH-mee-toh",
+        "examples": [
+            { "italian": "Mi fa male il gomito.", "english": "My elbow hurts." },
+            { "italian": "Ho il gomito gonfio.", "english": "My elbow is swollen." },
+            { "italian": "Mi sono fatto male al gomito.", "english": "I hurt my elbow." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "polso",
+        "english": "wrist",
+        "pronunciation": "POHL-soh",
+        "examples": [
+            { "italian": "Mi fa male il polso.", "english": "My wrist hurts." },
+            { "italian": "Ho il polso rotto.", "english": "I have a broken wrist." },
+            { "italian": "Ho il polso gonfio.", "english": "My wrist is swollen." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "mano",
+        "english": "hand",
+        "pronunciation": "MAH-noh",
+        "examples": [
+            { "italian": "Mi fa male la mano.", "english": "My hand hurts." },
+            { "italian": "Ho la mano gonfio.", "english": "My hand is swollen." },
+            { "italian": "Mi si è gonfiata la mano.", "english": "My hand swelled up." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "dito",
+        "english": "finger",
+        "pronunciation": "DEE-toh",
+        "examples": [
+            { "italian": "Mi fa male un dito.", "english": "My finger hurts." },
+            { "italian": "Ho il dito rotto.", "english": "I have a broken finger." },
+            { "italian": "Mi si è gonfio il dito.", "english": "My finger swelled up." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "petto",
+        "english": "chest",
+        "pronunciation": "PET-toh",
+        "examples": [
+            { "italian": "Ho dolore al petto.", "english": "I have chest pain." },
+            { "italian": "Mi fa male il petto quando respiro.", "english": "My chest hurts when I breathe." },
+            { "italian": "Ho oppressione al petto.", "english": "I have chest tightness." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "stomaco",
+        "english": "stomach",
+        "pronunciation": "STOH-mah-koh",
+        "examples": [
+            { "italian": "Ho mal di stomaco.", "english": "I have a stomachache." },
+            { "italian": "Ho nausea e dolore allo stomaco.", "english": "I have nausea and stomach pain." },
+            { "italian": "Il mio stomaco non sta bene.", "english": "My stomach is not well." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "schiena",
+        "english": "back",
+        "pronunciation": "skee-EH-nah",
+        "examples": [
+            { "italian": "Ho mal di schiena.", "english": "I have back pain." },
+            { "italian": "Mi fa male la schiena bassa.", "english": "My lower back hurts." },
+            { "italian": "Ho la schiena rigida.", "english": "My back is stiff." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "fianco",
+        "english": "hip",
+        "pronunciation": "fee-AHNK-oh",
+        "examples": [
+            { "italian": "Mi fa male il fianco.", "english": "My hip hurts." },
+            { "italian": "Ho il fianco gonfio.", "english": "My hip is swollen." },
+            { "italian": "Non riesco a camminare, mi fa male il fianco.", "english": "I can't walk, my hip hurts." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "gamba",
+        "english": "leg",
+        "pronunciation": "GAHM-bah",
+        "examples": [
+            { "italian": "Mi fa male la gamba.", "english": "My leg hurts." },
+            { "italian": "Ho la gamba gonfia.", "english": "My leg is swollen." },
+            { "italian": "Ho la gamba rotta.", "english": "I have a broken leg." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "ginocchio",
+        "english": "knee",
+        "pronunciation": "jee-NOK-kee-oh",
+        "examples": [
+            { "italian": "Mi fa male il ginocchio.", "english": "My knee hurts." },
+            { "italian": "Ho il ginocchio gonfio.", "english": "My knee is swollen." },
+            { "italian": "Non riesco a piegare il ginocchio.", "english": "I can't bend my knee." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "caviglia",
+        "english": "ankle",
+        "pronunciation": "kah-VEE-lyah",
+        "examples": [
+            { "italian": "Mi fa male la caviglia.", "english": "My ankle hurts." },
+            { "italian": "Ho la caviglia slogata.", "english": "I have a sprained ankle." },
+            { "italian": "Ho la caviglia gonfia.", "english": "My ankle is swollen." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "piede",
+        "english": "foot",
+        "pronunciation": "pee-EH-deh",
+        "examples": [
+            { "italian": "Mi fa male il piede.", "english": "My foot hurts." },
+            { "italian": "Ho il piede gonfio.", "english": "My foot is swollen." },
+            { "italian": "Mi fa male il piede quando cammino.", "english": "My foot hurts when I walk." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "dito del piede",
+        "english": "toe",
+        "pronunciation": "DEE-toh del pee-EH-deh",
+        "examples": [
+            { "italian": "Mi fa male un dito del piede.", "english": "My toe hurts." },
+            { "italian": "Ho il dito del piede rotto.", "english": "I have a broken toe." },
+            { "italian": "Il mio dito del piede è gonfio.", "english": "My toe is swollen." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "cuore",
+        "english": "heart",
+        "pronunciation": "koo-OH-reh",
+        "examples": [
+            { "italian": "Ho problemi al cuore.", "english": "I have heart problems." },
+            { "italian": "Mi batte il cuore velocemente.", "english": "My heart is beating fast." },
+            { "italian": "Ho dolore al cuore.", "english": "I have heart pain." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "polmone",
+        "english": "lung",
+        "pronunciation": "pohl-MOH-neh",
+        "examples": [
+            { "italian": "Ho problemi ai polmoni.", "english": "I have lung problems." },
+            { "italian": "Mi fa male il polmone.", "english": "My lung hurts." },
+            { "italian": "Ho difficoltà respiratorie ai polmoni.", "english": "I have breathing difficulties in my lungs." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "fegato",
+        "english": "liver",
+        "pronunciation": "FEH-gah-toh",
+        "examples": [
+            { "italian": "Ho problemi al fegato.", "english": "I have liver problems." },
+            { "italian": "Mi fa male il fegato.", "english": "My liver hurts." },
+            { "italian": "Hanno trovato qualcosa al mio fegato.", "english": "They found something on my liver." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "pelle",
+        "english": "skin",
+        "pronunciation": "PEL-leh",
+        "examples": [
+            { "italian": "Ho un'eruzione cutanea sulla pelle.", "english": "I have a rash on my skin." },
+            { "italian": "La mia pelle è secca.", "english": "My skin is dry." },
+            { "italian": "Ho prurito sulla pelle.", "english": "I have itching on my skin." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "osso",
+        "english": "bone",
+        "pronunciation": "OHS-soh",
+        "examples": [
+            { "italian": "Ho l'osso rotto.", "english": "I have a broken bone." },
+            { "italian": "Mi fa male l'osso.", "english": "My bone hurts." },
+            { "italian": "Ho una frattura all'osso.", "english": "I have a bone fracture." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "muscolo",
+        "english": "muscle",
+        "pronunciation": "MOO-skoh-loh",
+        "examples": [
+            { "italian": "Ho il muscolo strappo.", "english": "I have a pulled muscle." },
+            { "italian": "Mi fa male un muscolo.", "english": "My muscle hurts." },
+            { "italian": "Ho un crampo muscolare.", "english": "I have a muscle cramp." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "sangue",
+        "english": "blood",
+        "pronunciation": "SAHN-gweh",
+        "examples": [
+            { "italian": "Sto sanguinando molto.", "english": "I'm bleeding a lot." },
+            { "italian": "C'è sangue ovunque.", "english": "There's blood everywhere." },
+            { "italian": "Devo controllare il mio sangue.", "english": "I need to have my blood checked." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "nervo",
+        "english": "nerve",
+        "pronunciation": "NER-voh",
+        "examples": [
+            { "italian": "Ho un nervo compresso.", "english": "I have a pinched nerve." },
+            { "italian": "Soffrendo il dolore al nervo.", "english": "I'm suffering from nerve pain." },
+            { "italian": "Il mio nervo è irritato.", "english": "My nerve is irritated." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "cervello",
+        "english": "brain",
+        "pronunciation": "cher-VEL-loh",
+        "examples": [
+            { "italian": "Ho avuto un trauma al cervello.", "english": "I had a brain injury." },
+            { "italian": "Mi fa male la testa, come se fosse il cervello.", "english": "My head hurts like it's a brain issue." },
+            { "italian": "Devo fare una risonanza magnetica al cervello.", "english": "I need to get an MRI of my brain." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Body Parts",
+        "italian": "colonna vertebrale",
+        "english": "spine",
+        "pronunciation": "kohl-OHN-nah ver-teh-BRAH-leh",
+        "examples": [
+            { "italian": "Ho dolore alla colonna vertebrale.", "english": "I have spine pain." },
+            { "italian": "Mi fa male la colonna vertebrale.", "english": "My spine hurts." },
+            { "italian": "Ho un disco erniato nella colonna vertebrale.", "english": "I have a herniated disc in my spine." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Mi fa male",
+        "english": "It hurts / I have pain",
+        "pronunciation": "mee fah MAH-leh",
+        "examples": [
+            { "italian": "Mi fa male il braccio.", "english": "My arm hurts." },
+            { "italian": "Mi fa male quando tocchi qui.", "english": "It hurts when you touch here." },
+            { "italian": "Mi fa molto male.", "english": "It hurts a lot." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Dove ti fa male?",
+        "english": "Where does it hurt?",
+        "pronunciation": "DOH-veh tee fah MAH-leh",
+        "examples": [
+            { "italian": "Dove ti fa male esattamente?", "english": "Where does it hurt exactly?" },
+            { "italian": "Dimmi dove ti fa male.", "english": "Tell me where it hurts." },
+            { "italian": "Dove ti fa male di più?", "english": "Where does it hurt most?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho mal di testa",
+        "english": "I have a headache",
+        "pronunciation": "oh mahl dee TES-tah",
+        "examples": [
+            { "italian": "Ho un terribile mal di testa.", "english": "I have a terrible headache." },
+            { "italian": "Ho mal di testa da stamattina.", "english": "I've had a headache since this morning." },
+            { "italian": "Mi prenda qualcosa per il mal di testa.", "english": "Give me something for my headache." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho la febbre",
+        "english": "I have a fever",
+        "pronunciation": "oh lah FEB-breh",
+        "examples": [
+            { "italian": "Ho la febbre alta.", "english": "I have a high fever." },
+            { "italian": "Da quando hai la febbre?", "english": "How long have you had a fever?" },
+            { "italian": "Credo di avere la febbre.", "english": "I think I have a fever." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho una tosse",
+        "english": "I have a cough / I'm coughing",
+        "pronunciation": "oh OO-nah TOHS-seh",
+        "examples": [
+            { "italian": "Ho una tosse terribile.", "english": "I have a terrible cough." },
+            { "italian": "Sto tossendo molto.", "english": "I'm coughing a lot." },
+            { "italian": "Questa tosse non passa.", "english": "This cough won't go away." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho congestione",
+        "english": "I have congestion",
+        "pronunciation": "oh kohn-jes-tee-OH-neh",
+        "examples": [
+            { "italian": "Ho congestione nasale.", "english": "I have nasal congestion." },
+            { "italian": "Non riesco a respirare, ho congestione.", "english": "I can't breathe, I have congestion." },
+            { "italian": "La congestione è terribile.", "english": "The congestion is terrible." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho nausea",
+        "english": "I feel sick / I have nausea",
+        "pronunciation": "oh NOW-ziah",
+        "examples": [
+            { "italian": "Ho nausea e mi gira la testa.", "english": "I feel sick and dizzy." },
+            { "italian": "Devo trovare un bagno, ho nausea.", "english": "I need to find a bathroom, I feel sick." },
+            { "italian": "Ho avuto nausea tutto il giorno.", "english": "I've felt sick all day." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Sto vomitando",
+        "english": "I'm vomiting",
+        "pronunciation": "stoh voh-mee-TAHN-doh",
+        "examples": [
+            { "italian": "Sto vomitando, non mi sento bene.", "english": "I'm vomiting, I don't feel well." },
+            { "italian": "Ho vomitato tutto il giorno.", "english": "I've been vomiting all day." },
+            { "italian": "Continuo a vomitare.", "english": "I keep vomiting." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho diarrea",
+        "english": "I have diarrhea",
+        "pronunciation": "oh dee-ah-REH-ah",
+        "examples": [
+            { "italian": "Ho la diarrea da ieri.", "english": "I've had diarrhea since yesterday." },
+            { "italian": "Soffro di diarrea.", "english": "I suffer from diarrhea." },
+            { "italian": "Potrebbe essere un'intossicazione alimentare, ho la diarrea.", "english": "It could be food poisoning, I have diarrhea." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Sono stitico",
+        "english": "I'm constipated",
+        "pronunciation": "SOH-noh stee-TEE-koh",
+        "examples": [
+            { "italian": "Sono stitico e ho dolore addominale.", "english": "I'm constipated and have abdominal pain." },
+            { "italian": "Soffrendo di costipazione.", "english": "I'm suffering from constipation." },
+            { "italian": "Non riesco ad andare in bagno, sono stitico.", "english": "I can't go to the bathroom, I'm constipated." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Mi gira la testa",
+        "english": "I'm dizzy",
+        "pronunciation": "mee JEE-rah lah TES-tah",
+        "examples": [
+            { "italian": "Mi gira la testa, devo sedermi.", "english": "I'm dizzy, I need to sit down." },
+            { "italian": "Ho vertigini e mi gira la testa.", "english": "I have vertigo and I'm dizzy." },
+            { "italian": "La stanza mi gira, mi sento male.", "english": "The room is spinning, I feel bad." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho difficoltà a respirare",
+        "english": "I have shortness of breath",
+        "pronunciation": "oh deef-fee-KOHL-tah ah res-pee-RAH-reh",
+        "examples": [
+            { "italian": "Ho difficoltà a respirare e dolore al petto.", "english": "I have shortness of breath and chest pain." },
+            { "italian": "Non riesco a respirare bene.", "english": "I can't breathe well." },
+            { "italian": "Soffro di mancanza di fiato.", "english": "I'm suffering from shortness of breath." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho dolore al petto",
+        "english": "I have chest pain",
+        "pronunciation": "oh doh-LOH-reh ahl PET-toh",
+        "examples": [
+            { "italian": "Ho dolore al petto che mi preoccupa.", "english": "I have chest pain that worries me." },
+            { "italian": "Ho dolore al petto quando respiro profondamente.", "english": "I have chest pain when I breathe deeply." },
+            { "italic": "Il dolore al petto è persistente.", "english": "The chest pain is persistent." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Mi sento debole",
+        "english": "I feel weak",
+        "pronunciation": "mee SEN-toh DEH-boh-leh",
+        "examples": [
+            { "italian": "Mi sento molto debole e stanco.", "english": "I feel very weak and tired." },
+            { "italian": "Sono debole, non riesco a stare in piedi.", "english": "I'm weak, I can't stand up." },
+            { "italian": "Mi sento debole dopo l'operazione.", "english": "I feel weak after the surgery." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Sono molto stanco",
+        "english": "I'm very tired / I have fatigue",
+        "pronunciation": "SOH-noh MOHL-toh STAHN-koh",
+        "examples": [
+            { "italian": "Sono molto stanco nonostante abbia dormito.", "english": "I'm very tired even though I slept." },
+            { "italian": "Soffro di stanchezza estrema.", "english": "I suffer from extreme fatigue." },
+            { "italian": "Non ce la faccio più, sono esausto.", "english": "I can't take it anymore, I'm exhausted." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho un'eruzione cutanea",
+        "english": "I have a rash",
+        "pronunciation": "oh oo-neh-roo-tsee-OH-neh koo-tah-NEH-ah",
+        "examples": [
+            { "italian": "Ho un'eruzione cutanea pruriginosa.", "english": "I have an itchy rash." },
+            { "italian": "Mi è venuta un'eruzione cutanea.", "english": "I got a rash." },
+            { "italian": "L'eruzione cutanea è diffusa su tutto il corpo.", "english": "The rash is all over my body." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho prurito",
+        "english": "I have itching",
+        "pronunciation": "oh proo-REE-toh",
+        "examples": [
+            { "italian": "Ho un prurito insopportabile.", "english": "I have unbearable itching." },
+            { "italian": "Prurito dappertutto sul corpo.", "english": "Itching all over my body." },
+            { "italian": "Non riesco a smettere di grattarmi a causa del prurito.", "english": "I can't stop scratching because of the itching." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho gonfiore",
+        "english": "I have swelling",
+        "pronunciation": "oh gohn-fee-OH-reh",
+        "examples": [
+            { "italian": "Ho gonfiore alle caviglie.", "english": "I have swelling in my ankles." },
+            { "italian": "C'è gonfiore intorno agli occhi.", "english": "There's swelling around my eyes." },
+            { "italian": "Il gonfiore non passa.", "english": "The swelling won't go away." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho un osso rotto",
+        "english": "I have a broken bone",
+        "pronunciation": "oh oon OHS-soh ROH-ttoh",
+        "examples": [
+            { "italian": "Penso di avere un osso rotto.", "english": "I think I have a broken bone." },
+            { "italian": "Ho il braccio rotto.", "english": "I have a broken arm." },
+            { "italian": "L'osso rotto fa molto male.", "english": "The broken bone hurts a lot." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho una distorsione",
+        "english": "I have a sprain",
+        "pronunciation": "oh OO-nah dees-tor-see-OH-neh",
+        "examples": [
+            { "italian": "Ho la caviglia slogata, una distorsione.", "english": "I have a sprained ankle, a sprain." },
+            { "italian": "La distorsione è dolorosa.", "english": "The sprain is painful." },
+            { "italian": "Ho una distorsione al polso.", "english": "I have a sprain in my wrist." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho una scottatura",
+        "english": "I have a burn",
+        "pronunciation": "oh OO-nah skohт-tah-TOO-rah",
+        "examples": [
+            { "italian": "Mi sono bruciato, ho una scottatura.", "english": "I burned myself, I have a burn." },
+            { "italian": "La scottatura è profonda.", "english": "The burn is deep." },
+            { "italian": "Ho una brutta scottatura sulla mano.", "english": "I have a bad burn on my hand." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho intorpidimento",
+        "english": "I have numbness",
+        "pronunciation": "oh een-tor-pee-dee-MEN-toh",
+        "examples": [
+            { "italian": "Ho intorpidimento alle dita.", "english": "I have numbness in my fingers." },
+            { "italian": "Provo intorpidimento su un lato del corpo.", "english": "I feel numbness on one side of my body." },
+            { "italian": "L'intorpidimento è preoccupante.", "english": "The numbness is concerning." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Common Symptoms",
+        "italian": "Ho formicolio",
+        "english": "I have tingling",
+        "pronunciation": "oh for-mee-KOH-lee-oh",
+        "examples": [
+            { "italian": "Ho formicolio alle mani.", "english": "I have tingling in my hands." },
+            { "italian": "Provo una sensazione di formicolio.", "english": "I feel a tingling sensation." },
+            { "italian": "Il formicolio non passa.", "english": "The tingling won't go away." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sono diabetico",
+        "english": "I'm diabetic",
+        "pronunciation": "SOH-noh dee-ah-BEH-tee-koh",
+        "examples": [
+            { "italian": "Sono diabetico e prendo insulina.", "english": "I'm diabetic and I take insulin." },
+            { "italian": "Sono diabetico, devo controllare i miei livelli di zucchero.", "english": "I'm diabetic, I need to monitor my blood sugar." },
+            { "italian": "Sono diabetico dal 2010.", "english": "I've been diabetic since 2010." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sono asmatico",
+        "english": "I'm asthmatic",
+        "pronunciation": "SOH-noh ahs-MAH-tee-koh",
+        "examples": [
+            { "italian": "Sono asmatico e ho l'inalatore con me.", "english": "I'm asthmatic and I have my inhaler with me." },
+            { "italian": "Sono asmatico, non posso fare sforzi eccessivi.", "english": "I'm asthmatic, I can't overexert myself." },
+            { "italian": "Ho un attacco d'asma, ho bisogno del mio inalatore.", "english": "I'm having an asthma attack, I need my inhaler." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sono incinta",
+        "english": "I'm pregnant",
+        "pronunciation": "SOH-noh een-CHEEN-tah",
+        "examples": [
+            { "italian": "Sono incinta di cinque mesi.", "english": "I'm five months pregnant." },
+            { "italian": "Sono incinta e sto facendo controlli regolari.", "english": "I'm pregnant and having regular checkups." },
+            { "italian": "Sono incinta, quindi non posso prendere certi farmaci.", "english": "I'm pregnant, so I can't take certain medications." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Ho la pressione alta",
+        "english": "I have high blood pressure",
+        "pronunciation": "oh lah pres-see-OH-neh AHL-tah",
+        "examples": [
+            { "italian": "Ho la pressione alta e prendo farmaci per questo.", "english": "I have high blood pressure and I take medication for it." },
+            { "italian": "La mia pressione è elevata, devo controllare la dieta.", "english": "My blood pressure is high, I need to monitor my diet." },
+            { "italian": "Ho la pressione alta da anni.", "english": "I've had high blood pressure for years." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sono allergico a...",
+        "english": "I'm allergic to...",
+        "pronunciation": "SOH-noh ahl-LER-jee-koh ah",
+        "examples": [
+            { "italian": "Sono allergico ai cacahueti.", "english": "I'm allergic to peanuts." },
+            { "italian": "Sono allergico alla penicillina.", "english": "I'm allergic to penicillin." },
+            { "italian": "Sono allergico ai frutti di mare.", "english": "I'm allergic to shellfish." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sto prendendo farmaci per...",
+        "english": "I'm taking medication for...",
+        "pronunciation": "stoh PREN-den-doh FAR-mah-chee pehr",
+        "examples": [
+            { "italian": "Sto prendendo farmaci per la pressione.", "english": "I'm taking medication for blood pressure." },
+            { "italian": "Sto prendendo farmaci per la depressione.", "english": "I'm taking medication for depression." },
+            { "italian": "Sto prendendo antibiotici per un'infezione.", "english": "I'm taking antibiotics for an infection." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Sto prendendo antibiotici",
+        "english": "I'm taking antibiotics",
+        "pronunciation": "stoh PREN-den-doh ahn-tee-bee-OH-tee-chee",
+        "examples": [
+            { "italian": "Sto prendendo antibiotici, quindi non posso bere alcol.", "english": "I'm taking antibiotics, so I can't drink alcohol." },
+            { "italian": "Sto prendendo antibiotici per l'infezione dell'orecchio.", "english": "I'm taking antibiotics for my ear infection." },
+            { "italian": "Devo finire il corso di antibiotici.", "english": "I need to finish my course of antibiotics." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Medical Conditions & Allergies",
+        "italian": "Hai medicina per...?",
+        "english": "Do you have medicine for...?",
+        "pronunciation": "ah-ee meh-dee-CHEE-nah pehr",
+        "examples": [
+            { "italian": "Hai medicina per il mal di testa?", "english": "Do you have medicine for a headache?" },
+            { "italian": "Hai medicina per il mal di stomaco?", "english": "Do you have medicine for stomach pain?" },
+            { "italian": "Puoi darmi qualcosa per la tosse?", "english": "Can you give me something for a cough?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Dov'è l'ospedale più vicino?",
+        "english": "Where is the nearest hospital?",
+        "pronunciation": "dohv-EH lohs-peh-DAH-leh pyoo VEE-chee-noh",
+        "examples": [
+            { "italian": "Dov'è l'ospedale più vicino?", "english": "Where is the nearest hospital?" },
+            { "italian": "Mi porti all'ospedale più vicino, per favore.", "english": "Take me to the nearest hospital, please." },
+            { "italian": "Conosci un ospedale vicino qui?", "english": "Do you know a hospital nearby?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Dov'è la farmacia?",
+        "english": "Where is the pharmacy?",
+        "pronunciation": "dohv-EH lah far-mah-CHEE-ah",
+        "examples": [
+            { "italian": "Dov'è la farmacia più vicina?", "english": "Where is the nearest pharmacy?" },
+            { "italian": "Mi puoi indicare una farmacia?", "english": "Can you show me a pharmacy?" },
+            { "italian": "C'è una farmacia aperta qui vicino?", "english": "Is there a pharmacy open nearby?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Dov'è lo studio medico?",
+        "english": "Where is the doctor's office?",
+        "pronunciation": "dohv-EH loh STOO-dee-oh MEH-dee-koh",
+        "examples": [
+            { "italian": "Dov'è lo studio medico più vicino?", "english": "Where is the nearest doctor's office?" },
+            { "italian": "Mi porti allo studio medico.", "english": "Take me to the doctor's office." },
+            { "italian": "Conosci uno studio medico qui?", "english": "Do you know a doctor's office here?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Ho bisogno di vedere un medico",
+        "english": "I need to see a doctor",
+        "pronunciation": "oh bee-ZOHN-yoh dee veh-DEH-reh oon MEH-dee-koh",
+        "examples": [
+            { "italian": "Ho bisogno di vedere un medico al più presto.", "english": "I need to see a doctor as soon as possible." },
+            { "italian": "Devo vedere un medico oggi.", "english": "I need to see a doctor today." },
+            { "italian": "Ho bisogno di un'appuntamento con un medico.", "english": "I need an appointment with a doctor." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Puoi chiamare un'ambulanza?",
+        "english": "Can you call an ambulance?",
+        "pronunciation": "poo-OH-ee kee-AH-mah-reh oon-ahm-boo-LAHN-tsah",
+        "examples": [
+            { "italian": "Puoi chiamare un'ambulanza? È un'emergenza.", "english": "Can you call an ambulance? It's an emergency." },
+            { "italian": "Mi chiami un'ambulanza, per favore.", "english": "Call me an ambulance, please." },
+            { "italian": "C'è qualcuno che può chiamare un'ambulanza?", "english": "Is there someone who can call an ambulance?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Portami all'ospedale",
+        "english": "Take me to the hospital",
+        "pronunciation": "POR-tah-mee ahl-lohs-peh-DAH-leh",
+        "examples": [
+            { "italian": "Portami all'ospedale adesso.", "english": "Take me to the hospital now." },
+            { "italian": "Devo andare all'ospedale, puoi portarmi?", "english": "I need to go to the hospital, can you take me?" },
+            { "italian": "Ho bisogno di andare all'ospedale urgentemente.", "english": "I need to go to the hospital urgently." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Parli inglese?",
+        "english": "Do you speak English?",
+        "pronunciation": "PAR-lee een-GLEH-zeh",
+        "examples": [
+            { "italian": "Parli inglese? Non parlo molto italiano.", "english": "Do you speak English? I don't speak much Italian." },
+            { "italian": "C'è qualcuno qui che parla inglese?", "english": "Is there someone here who speaks English?" },
+            { "italian": "Parli inglese o francese?", "english": "Do you speak English or French?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Non capisco",
+        "english": "I don't understand",
+        "pronunciation": "nohn kah-PEES-koh",
+        "examples": [
+            { "italian": "Non capisco quello che dici, parla più lentamente.", "english": "I don't understand what you're saying, speak more slowly." },
+            { "italian": "Non capisco, puoi ripetere?", "english": "I don't understand, can you repeat?" },
+            { "italian": "Non capisco l'italiano molto bene.", "english": "I don't understand Italian very well." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Puoi aiutarmi?",
+        "english": "Can you help me?",
+        "pronunciation": "poo-OH-ee ah-yoo-TAR-mee",
+        "examples": [
+            { "italian": "Puoi aiutarmi? Non mi sento bene.", "english": "Can you help me? I don't feel well." },
+            { "italian": "Ho bisogno di aiuto, puoi aiutarmi?", "english": "I need help, can you help me?" },
+            { "italian": "Per favore, puoi aiutarmi a trovare un medico?", "english": "Please, can you help me find a doctor?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Ho bisogno dei dati assicurativi",
+        "english": "Do you need my insurance information?",
+        "pronunciation": "oh bee-ZOHN-yoh day DAH-tee ahs-see-koo-rah-TEE-vee",
+        "examples": [
+            { "italian": "Ho bisogno dei miei dati assicurativi.", "english": "I need my insurance information." },
+            { "italian": "Hai i miei dati assicurativi?", "english": "Do you have my insurance information?" },
+            { "italian": "Posso fornire i dettagli assicurativi.", "english": "I can provide insurance details." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "Asking for Medical Help",
+        "italian": "Quanto tempo ci vorrà?",
+        "english": "How long will it take?",
+        "pronunciation": "KWAHN-toh TEM-poh chee vor-RAH",
+        "examples": [
+            { "italian": "Quanto tempo ci vorrà per essere visto?", "english": "How long will it take to be seen?" },
+            { "italian": "Quanto tempo per i risultati?", "english": "How long for the results?" },
+            { "italian": "Quanto tempo dovrò aspettare?", "english": "How long will I have to wait?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Non mi sento bene",
+        "english": "I don't feel well",
+        "pronunciation": "nohn mee SEN-toh BEH-neh",
+        "examples": [
+            { "italian": "Non mi sento bene, potremmo andare al medico?", "english": "I don't feel well, can we go to the doctor?" },
+            { "italian": "Non mi sento bene da questa mattina.", "english": "I haven't felt well since this morning." },
+            { "italian": "Mi dispiace, non mi sento bene.", "english": "I'm sorry, I don't feel well." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Sono malato",
+        "english": "I'm sick",
+        "pronunciation": "SOH-noh mah-LAH-toh",
+        "examples": [
+            { "italian": "Sono malato e devo restare a casa.", "english": "I'm sick and I need to stay home." },
+            { "italian": "Sono stato malato tutta la settimana.", "english": "I've been sick all week." },
+            { "italian": "Mi dispiace, sono malato.", "english": "I'm sorry, I'm sick." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Mi sento meglio",
+        "english": "I feel better",
+        "pronunciation": "mee SEN-toh MEH-lyoh",
+        "examples": [
+            { "italian": "Mi sento molto meglio oggi.", "english": "I feel much better today." },
+            { "italian": "Grazie alle medicine, mi sento meglio.", "english": "Thanks to the medication, I feel better." },
+            { "italian": "Finalmente mi sento meglio!", "english": "Finally I feel better!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Sta peggiorando",
+        "english": "It's getting worse",
+        "pronunciation": "stah peg-joh-RAHN-doh",
+        "examples": [
+            { "italian": "Il dolore sta peggiorando.", "english": "The pain is getting worse." },
+            { "italian": "Mi sento peggio, la febbre sta peggiorando.", "english": "I feel worse, the fever is getting worse." },
+            { "italian": "I sintomi stanno peggiorando.", "english": "The symptoms are getting worse." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Sta migliorando",
+        "english": "It's getting better",
+        "pronunciation": "stah mee-lyoh-RAHN-doh",
+        "examples": [
+            { "italian": "Il dolore sta migliorando leggermente.", "english": "The pain is getting slightly better." },
+            { "italian": "Mi sento meglio, la febbre sta migliorando.", "english": "I feel better, the fever is getting better." },
+            { "italian": "I sintomi stanno migliorando.", "english": "The symptoms are getting better." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Ho bisogno di un antidolorifico",
+        "english": "I need pain medication",
+        "pronunciation": "oh bee-ZOHN-yoh dee oon ahn-tee-doh-loh-REE-fee-koh",
+        "examples": [
+            { "italian": "Ho bisogno di un antidolorifico per il dolore.", "english": "I need pain medication for the pain." },
+            { "italian": "Mi puoi dare un antidolorifico?", "english": "Can you give me pain medication?" },
+            { "italian": "Quanto spesso posso prendere l'antidolorifico?", "english": "How often can I take the pain medication?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Ho bisogno di riposo",
+        "english": "I need rest",
+        "pronunciation": "oh bee-ZOHN-yoh dee ree-POH-stoh",
+        "examples": [
+            { "italian": "Ho bisogno di riposo e di recuperare.", "english": "I need rest and recovery." },
+            { "italian": "Il medico ha detto che ho bisogno di riposo.", "english": "The doctor said I need rest." },
+            { "italian": "Ho bisogno di un paio di giorni di riposo.", "english": "I need a couple of days of rest." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "È grave?",
+        "english": "Is it serious?",
+        "pronunciation": "eh GRAH-veh",
+        "examples": [
+            { "italian": "Dottore, è grave?", "english": "Doctor, is it serious?" },
+            { "italian": "Quanto è grave la mia condizione?", "english": "How serious is my condition?" },
+            { "italian": "Mi preoccupa, è grave?", "english": "I'm worried, is it serious?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Mi serve un'operazione?",
+        "english": "Will I need surgery?",
+        "pronunciation": "mee SER-veh oon-oh-peh-rah-tsee-OH-neh",
+        "examples": [
+            { "italian": "Mi serve un'operazione?", "english": "Will I need surgery?" },
+            { "italian": "È necessaria un'operazione?", "english": "Is surgery necessary?" },
+            { "italian": "Devo sottopormi a un'operazione?", "english": "Do I have to have surgery?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Quando posso viaggiare?",
+        "english": "When can I travel?",
+        "pronunciation": "KWAHN-doh POHS-soh vee-AHJ-jah-reh",
+        "examples": [
+            { "italian": "Quando posso viaggiare di nuovo?", "english": "When can I travel again?" },
+            { "italian": "Sarò in grado di volare tra una settimana?", "english": "Will I be able to fly in a week?" },
+            { "italian": "Quando posso tornare al mio viaggio?", "english": "When can I resume my trip?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "category": "General Health Phrases",
+        "italian": "Ho bisogno di una prescrizione",
+        "english": "I need a prescription",
+        "pronunciation": "oh bee-ZOHN-yoh dee OO-nah pres-kree-tsee-OH-neh",
+        "examples": [
+            { "italian": "Ho bisogno di una prescrizione per il farmaco.", "english": "I need a prescription for the medication." },
+            { "italian": "Puoi scrivermi una prescrizione?", "english": "Can you write me a prescription?" },
+            { "italian": "Ho bisogno di una prescrizione per l'ospedale.", "english": "I need a prescription from the hospital." }
+        ]
+    }
+]

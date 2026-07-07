@@ -1,0 +1,284 @@
+[
+    {
+        "type": "exclamation",
+        "italian": "Accidenti!",
+        "english": "Darn!",
+        "pronunciation": "ah-chee-DEN-tee",
+        "intensity": "Mild",
+        "alternatives": "Safe alternative to stronger expletives",
+        "examples": [
+            { "italian": "Accidenti, mi sono ferito!", "english": "Darn, I hurt myself!" },
+            { "italian": "Accidenti, ho perso l'autobus!", "english": "Darn, I missed the bus!" },
+            { "italian": "Accidenti, questo è difficile.", "english": "Darn, this is difficult." }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Cavolo!",
+        "english": "Darn! / Shoot!",
+        "pronunciation": "kah-VOH-loh",
+        "intensity": "Mild",
+        "alternatives": "Safe alternative to stronger expletives (literally means 'cabbage')",
+        "examples": [
+            { "italian": "Cavolo, ho dimenticato le chiavi!", "english": "Darn, I forgot my keys!" },
+            { "italian": "Cavolo, è tardi!", "english": "Shoot, it's late!" },
+            { "italian": "Cavolo, questo non funziona.", "english": "Darn, this doesn't work." }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Mannaggia!",
+        "english": "Damn!",
+        "pronunciation": "man-AH-jah",
+        "intensity": "Mild-Moderate",
+        "alternatives": "Can use 'Accidenti' or 'Cavolo' for milder alternative",
+        "examples": [
+            { "italian": "Mannaggia, ho rotto il bicchiere!", "english": "Damn, I broke the glass!" },
+            { "italian": "Mannaggia, la macchina non parte.", "english": "Damn, the car won't start." },
+            { "italian": "Mannaggia a questo caldo!", "english": "Damn this heat!" }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Diavolo!",
+        "english": "Damn! / What the hell!",
+        "pronunciation": "dee-AH-voh-loh",
+        "intensity": "Mild-Moderate",
+        "alternatives": "Can use 'Accidenti' or 'Cavolo' for milder alternative",
+        "examples": [
+            { "italian": "Che diavolo stai facendo?", "english": "What the hell are you doing?" },
+            { "italian": "Diavolo, dove sono le mie scarpe?", "english": "Damn, where are my shoes?" },
+            { "italian": "Al diavolo con questo progetto!", "english": "To hell with this project!" }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Perbacco!",
+        "english": "By Jove! / Good grief!",
+        "pronunciation": "per-BAHK-koh",
+        "intensity": "Mild",
+        "alternatives": "Old-fashioned, safe alternative",
+        "examples": [
+            { "italian": "Perbacco, non ci credo!", "english": "By Jove, I can't believe it!" },
+            { "italian": "Perbacco, come sei cresciuto!", "english": "Good grief, how you've grown!" },
+            { "italian": "Perbacco, che sorpresa!", "english": "By Jove, what a surprise!" }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Porca Miseria!",
+        "english": "Damn it! / What a mess!",
+        "pronunciation": "POR-kah mee-ZEH-ree-ah",
+        "intensity": "Moderate",
+        "alternatives": "Use 'Mannaggia' or 'Accidenti' for milder alternative",
+        "examples": [
+            { "italian": "Porca miseria, è tutto bagnato!", "english": "Damn it, everything's soaked!" },
+            { "italian": "Porca miseria, che disastro!", "english": "Damn, what a disaster!" },
+            { "italian": "Porca miseria, ho fatto un errore.", "english": "Hell, I made a mistake." }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Cazzo!",
+        "english": "Fuck! / Damn!",
+        "pronunciation": "KAHT-tsoh",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Accidenti', 'Cavolo', or 'Mannaggia' for appropriate alternative",
+        "examples": [
+            { "italian": "Cazzo, mi sono bruciato!", "english": "Damn, I burned myself!" },
+            { "italian": "Che cazzo vuoi?", "english": "What the hell do you want?" },
+            { "italian": "Cazzo, ho dimenticato tutto.", "english": "Fuck, I forgot everything." },
+            { "italian": "Non me ne importa un cazzo.", "english": "I don't give a damn." }
+        ]
+    },
+    {
+        "type": "exclamation",
+        "italian": "Merda!",
+        "english": "Shit!",
+        "pronunciation": "MER-dah",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Accidenti' or 'Cavolo' for appropriate alternative",
+        "examples": [
+            { "italian": "Merda, ho perso il treno!", "english": "Shit, I missed the train!" },
+            { "italian": "Merda, che disastro!", "english": "Shit, what a disaster!" },
+            { "italian": "Che merda di giorno!", "english": "What a shitty day!" }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Bastardo!",
+        "english": "Bastard!",
+        "pronunciation": "bahs-TAR-doh",
+        "intensity": "Strong",
+        "alternatives": "Use 'Cretino' or 'Sciocco' (fool) for milder alternative",
+        "examples": [
+            { "italian": "Sei un bastardo!", "english": "You're a bastard!" },
+            { "italian": "Quel bastardo mi ha ingannato.", "english": "That bastard tricked me." },
+            { "italian": "Non posso credere che tu sia un bastardo così.", "english": "I can't believe you're such a bastard." }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Stronzo!",
+        "english": "Asshole! / Jerk!",
+        "pronunciation": "STROHN-tsoh",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Sciocco' (fool) or 'Scimunito' (dimwit) for milder alternative",
+        "examples": [
+            { "italian": "Sei uno stronzo!", "english": "You're an asshole!" },
+            { "italian": "Quello stronzo mi ha rubato il posto.", "english": "That asshole stole my spot." },
+            { "italian": "Non dire cose così, stronzo!", "english": "Don't say things like that, asshole!" }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Cretino!",
+        "english": "Idiot! / Asshole!",
+        "pronunciation": "kreh-TEE-noh",
+        "intensity": "Strong",
+        "alternatives": "Use 'Sciocco' (fool) or 'Stupido' (stupid) for milder alternative",
+        "examples": [
+            { "italian": "Sei un cretino!", "english": "You're an idiot!" },
+            { "italian": "Che cosa stai facendo, cretino?", "english": "What are you doing, idiot?" },
+            { "italian": "Non essere cretino!", "english": "Don't be an idiot!" }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Imbecille!",
+        "english": "Moron! / Imbecile!",
+        "pronunciation": "eem-beh-CHEE-leh",
+        "intensity": "Strong",
+        "alternatives": "Use 'Stupido' (stupid) or 'Sciocco' (fool) for milder alternative",
+        "examples": [
+            { "italian": "Sei un imbecille!", "english": "You're a moron!" },
+            { "italian": "Che cosa hai fatto, imbecille?", "english": "What did you do, moron?" },
+            { "italian": "Non posso lavorare con questo imbecille.", "english": "I can't work with this idiot." }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Coglione!",
+        "english": "Dickhead! / Jerk!",
+        "pronunciation": "kohl-YOHN-eh",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Sciocco' (fool) or 'Tonto' (dumb) for milder alternative",
+        "examples": [
+            { "italian": "Sei un coglione!", "english": "You're a dickhead!" },
+            { "italian": "Che cosa stai dicendo, coglione?", "english": "What are you saying, jerk?" },
+            { "italian": "Non mi interessa, coglione!", "english": "I don't care, dickhead!" }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Testa di cazzo!",
+        "english": "Dickhead!",
+        "pronunciation": "TES-tah dee KAHT-tsoh",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Testardo' (stubborn) or 'Stupido' (stupid) for milder alternative",
+        "examples": [
+            { "italian": "Sei una testa di cazzo!", "english": "You're a dickhead!" },
+            { "italian": "Testa di cazzo, ascoltami!", "english": "Dickhead, listen to me!" },
+            { "italian": "Non fare la testa di cazzo!", "english": "Don't be a dickhead!" }
+        ]
+    },
+    {
+        "type": "insult",
+        "italian": "Maledetto!",
+        "english": "Damned! / Cursed!",
+        "pronunciation": "mah-leh-DET-toh",
+        "intensity": "Moderate-Strong",
+        "alternatives": "Use 'Accidenti' or 'Mannaggia' for milder alternative",
+        "examples": [
+            { "italian": "Maledetto traffico!", "english": "Damned traffic!" },
+            { "italian": "Maledetto giorno!", "english": "Cursed day!" },
+            { "italian": "Questo maledetto computer!", "english": "This damned computer!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Vaffanculo!",
+        "english": "Fuck off!",
+        "pronunciation": "vah-fahn-KOO-loh",
+        "intensity": "Extremely Strong",
+        "alternatives": "Use 'Va' via!' (go away) for appropriate alternative",
+        "examples": [
+            { "italian": "Vaffanculo!", "english": "Fuck off!" },
+            { "italian": "Ma vaffanculo, non mi interessa!", "english": "Fuck off, I don't care!" },
+            { "italian": "Che tu mi dica vaffanculo non mi importa.", "english": "I don't care if you tell me to fuck off." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Va' a farti fottere!",
+        "english": "Go fuck yourself!",
+        "pronunciation": "vah ah FAR-tee foh-TEH-reh",
+        "intensity": "Extremely Strong",
+        "alternatives": "Use 'Va' via!' (go away) or 'Lasciami in pace!' (leave me alone) for appropriate alternative",
+        "examples": [
+            { "italian": "Va' a farti fottere!", "english": "Go fuck yourself!" },
+            { "italian": "Se non ti piace, va' a farti fottere!", "english": "If you don't like it, go fuck yourself!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Pezzo di merda!",
+        "english": "Piece of shit!",
+        "pronunciation": "PET-tsoh dee MER-dah",
+        "intensity": "Extremely Strong",
+        "alternatives": "Use 'Sciocco' (fool) or 'Cattivo' (bad person) for appropriate alternative",
+        "examples": [
+            { "italian": "Sei un pezzo di merda!", "english": "You're a piece of shit!" },
+            { "italian": "Quel pezzo di merda mi ha derubato.", "english": "That piece of shit robbed me." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Chi ti credi di essere?",
+        "english": "Who do you think you are?",
+        "pronunciation": "kee tee KREH-dee dee es-SEH-reh",
+        "intensity": "Mild Confrontational",
+        "alternatives": "Use when expressing indignation at someone's attitude",
+        "examples": [
+            { "italian": "Chi ti credi di essere per parlarmi così?", "english": "Who do you think you are to talk to me like that?" },
+            { "italian": "Chi ti credi di essere, il boss?", "english": "Who do you think you are, the boss?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Non me ne importa un cazzo!",
+        "english": "I don't give a damn!",
+        "pronunciation": "nohn meh neh eem-POR-tah oon KAHT-tsoh",
+        "intensity": "Very Strong",
+        "alternatives": "Use 'Non mi importa!' (I don't care) for milder alternative",
+        "examples": [
+            { "italian": "Non me ne importa un cazzo quello che pensi.", "english": "I don't give a damn what you think." },
+            { "italian": "Non me ne importa un cazzo del tuo parere.", "english": "I don't give a damn about your opinion." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Che disastro!",
+        "english": "What a disaster!",
+        "pronunciation": "keh dee-ZAHS-troh",
+        "intensity": "Mild-Moderate",
+        "alternatives": "Use when expressing frustration or disappointment",
+        "examples": [
+            { "italian": "Che disastro! Ho rotto tutto.", "english": "What a disaster! I broke everything." },
+            { "italian": "Che disastro questa situazione!", "english": "What a disaster this situation is!" },
+            { "italian": "Che disastro di giorno!", "english": "What a disastrous day!" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Che confusione!",
+        "english": "What a mess!",
+        "pronunciation": "keh kohn-foo-zee-OH-neh",
+        "intensity": "Mild",
+        "alternatives": "Safe alternative to stronger expletives",
+        "examples": [
+            { "italian": "Che confusione in questa casa!", "english": "What a mess in this house!" },
+            { "italian": "Che confusione! Non riesco a trovare niente.", "english": "What a mess! I can't find anything." }
+        ]
+    }
+]

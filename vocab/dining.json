@@ -1,0 +1,398 @@
+[
+    {
+        "type": "phrase",
+        "italian": "Un tavolo per... persone",
+        "english": "A table for... people",
+        "pronunciation": "oon tah-VOH-loh pehr... per-SOH-neh",
+        "examples": [
+            { "italian": "Un tavolo per due persone, per favore.", "english": "A table for two people, please." },
+            { "italian": "Avremmo bisogno di un tavolo per quattro.", "english": "We would need a table for four." },
+            { "italian": "Un tavolo per tre, per favore.", "english": "A table for three, please." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Abbiamo una prenotazione",
+        "english": "We have a reservation",
+        "pronunciation": "ah-bee-AH-moh OO-nah preh-noh-tah-zee-OH-neh",
+        "examples": [
+            { "italian": "Abbiamo una prenotazione per le 19:00.", "english": "We have a reservation for 7 PM." },
+            { "italian": "Abbiamo una prenotazione a nome Rossi.", "english": "We have a reservation under the name Rossi." },
+            { "italian": "Sì, abbiamo una prenotazione.", "english": "Yes, we have a reservation." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Avete un tavolo disponibile?",
+        "english": "Do you have a table available?",
+        "pronunciation": "ah-VEH-teh oon tah-VOH-loh dees-poh-nee-BEE-leh",
+        "examples": [
+            { "italian": "Avete un tavolo disponibile per due?", "english": "Do you have a table available for two?" },
+            { "italian": "Scusi, avete un tavolo disponibile ora?", "english": "Excuse me, do you have a table available now?" },
+            { "italian": "Avete tavoli disponibili questa sera?", "english": "Do you have tables available this evening?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Vorrei...",
+        "english": "I would like...",
+        "pronunciation": "vor-RAY",
+        "examples": [
+            { "italian": "Vorrei un'acqua minerale, per favore.", "english": "I would like a mineral water, please." },
+            { "italian": "Vorrei il menu, per favore.", "english": "I would like the menu, please." },
+            { "italian": "Vorrei ordinare adesso.", "english": "I would like to order now." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi consiglia...?",
+        "english": "What do you recommend...?",
+        "pronunciation": "mee kohn-SEE-lyah",
+        "examples": [
+            { "italian": "Mi consiglia un piatto speciale?", "english": "What special dish do you recommend?" },
+            { "italian": "Mi consiglia un vino?", "english": "What wine do you recommend?" },
+            { "italian": "Mi consiglia il pesce o la carne?", "english": "Do you recommend the fish or the meat?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Che cosa è...?",
+        "english": "What is...?",
+        "pronunciation": "keh KOH-zah eh",
+        "examples": [
+            { "italian": "Che cosa è questo piatto?", "english": "What is this dish?" },
+            { "italian": "Che cosa è incluso nel menu?", "english": "What is included in the menu?" },
+            { "italian": "Che cosa sono questi ingredienti?", "english": "What are these ingredients?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Un'altra bottiglia di vino",
+        "english": "Another bottle of wine",
+        "pronunciation": "oo-NAHL-trah boh-TEEL-yah dee VEE-noh",
+        "examples": [
+            { "italian": "Ci porta un'altra bottiglia di vino rosso?", "english": "Can you bring us another bottle of red wine?" },
+            { "italian": "Un'altra bottiglia dello stesso vino, per favore.", "english": "Another bottle of the same wine, please." },
+            { "italian": "Vorremmo un'altra bottiglia di vino bianco.", "english": "We would like another bottle of white wine." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "L'acqua, per favore",
+        "english": "Water, please",
+        "pronunciation": "LAHK-kwah pehr fah-VOH-reh",
+        "examples": [
+            { "italian": "L'acqua, per favore, con ghiaccio.", "english": "Water, please, with ice." },
+            { "italian": "Un'acqua naturale, per favore.", "english": "A sparkling water, please." },
+            { "italian": "Potremmo avere dell'acqua, per favore?", "english": "Could we have some water, please?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Un caffè/Un espresso",
+        "english": "A coffee/An espresso",
+        "pronunciation": "oon kah-FEH / oon es-PRES-soh",
+        "examples": [
+            { "italian": "Un caffè, per favore.", "english": "A coffee, please." },
+            { "italian": "Un espresso dopo il pasto.", "english": "An espresso after the meal." },
+            { "italian": "Due caffè, per favore.", "english": "Two coffees, please." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Non ho un'allergia",
+        "english": "I don't have an allergy",
+        "pronunciation": "nohn oh oo-nahl-LER-jah",
+        "examples": [
+            { "italian": "Non ho un'allergia, quindi posso mangiare di tutto.", "english": "I don't have an allergy, so I can eat anything." },
+            { "italian": "Non ho un'allergia ai frutti di mare.", "english": "I don't have an allergy to seafood." },
+            { "italian": "Non ho allergie particolari.", "english": "I don't have any particular allergies." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Non mangio...",
+        "english": "I don't eat...",
+        "pronunciation": "nohn MAHN-joh",
+        "examples": [
+            { "italian": "Non mangio pesce.", "english": "I don't eat fish." },
+            { "italian": "Non mangio carne rossa.", "english": "I don't eat red meat." },
+            { "italian": "Non mangio latticini.", "english": "I don't eat dairy." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Senza...",
+        "english": "Without...",
+        "pronunciation": "SEN-zah",
+        "examples": [
+            { "italian": "Un piatto senza aglio, per favore.", "english": "A dish without garlic, please." },
+            { "italian": "La pasta senza glutine, per favore.", "english": "Pasta without gluten, please." },
+            { "italian": "Un caffè senza caffeine.", "english": "A decaf coffee." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Bene cotto / Poco cotto",
+        "english": "Well done / Rare",
+        "pronunciation": "BEH-neh KOH-toh / POH-koh KOH-toh",
+        "examples": [
+            { "italian": "La carne bene cotta, per favore.", "english": "The meat well done, please." },
+            { "italian": "Preferisco la bistecca poco cotta.", "english": "I prefer the steak rare." },
+            { "italian": "Lo vorrei medio cotto.", "english": "I would like it medium." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Piccante",
+        "english": "Spicy",
+        "pronunciation": "peek-KAHN-teh",
+        "examples": [
+            { "italian": "Mi piace il cibo piccante.", "english": "I like spicy food." },
+            { "italian": "È troppo piccante per me.", "english": "It's too spicy for me." },
+            { "italian": "Potrebbe essere meno piccante?", "english": "Could it be less spicy?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Senza sale",
+        "english": "Without salt",
+        "pronunciation": "SEN-zah SAH-leh",
+        "examples": [
+            { "italian": "La zuppa senza sale, per favore.", "english": "The soup without salt, please." },
+            { "italian": "Vorrei mangiare con meno sale.", "english": "I would like to eat with less salt." },
+            { "italian": "Potrebbe prepararlo senza sale?", "english": "Could you prepare it without salt?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Fritto/a",
+        "english": "Fried",
+        "pronunciation": "FREE-toh / FREE-tah",
+        "examples": [
+            { "italian": "Il pesce fritto è delizioso.", "english": "The fried fish is delicious." },
+            { "italian": "Preferisco i piatti fritti.", "english": "I prefer fried dishes." },
+            { "italian": "Le patate fritte, per favore.", "english": "French fries, please." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Grigliato/a",
+        "english": "Grilled",
+        "pronunciation": "gree-LYAH-toh / gree-LYAH-tah",
+        "examples": [
+            { "italian": "Vorrei il pesce grigliato.", "english": "I would like grilled fish." },
+            { "italian": "La carne grigliata è ottima.", "english": "The grilled meat is excellent." },
+            { "italian": "Preferisco le verdure grigliate.", "english": "I prefer grilled vegetables." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Al forno",
+        "english": "Baked",
+        "pronunciation": "ahl FOR-noh",
+        "examples": [
+            { "italian": "Il pollo al forno è perfetto.", "english": "The baked chicken is perfect." },
+            { "italian": "Vorrei le patate al forno.", "english": "I would like baked potatoes." },
+            { "italian": "Preferisco il pesce al forno.", "english": "I prefer baked fish." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "In umido",
+        "english": "Stewed",
+        "pronunciation": "een OO-mee-doh",
+        "examples": [
+            { "italian": "Il coniglio in umido è tradizionale.", "english": "Stewed rabbit is traditional." },
+            { "italian": "Preferisco le verdure in umido.", "english": "I prefer stewed vegetables." },
+            { "italian": "Questo piatto è cotto in umido.", "english": "This dish is cooked in a stew." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Arrosto",
+        "english": "Roasted",
+        "pronunciation": "ar-ROHS-toh",
+        "examples": [
+            { "italian": "Il pollo arrosto è delizioso.", "english": "The roasted chicken is delicious." },
+            { "italian": "Vorrei la carne arrosto.", "english": "I would like roasted meat." },
+            { "italian": "Le verdure arroste sono buone.", "english": "The roasted vegetables are good." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È delizioso/a",
+        "english": "It's delicious",
+        "pronunciation": "eh deh-lee-zee-OH-soh / deh-lee-zee-OH-sah",
+        "examples": [
+            { "italian": "Questo piatto è delizioso!", "english": "This dish is delicious!" },
+            { "italian": "La pasta è deliziosa.", "english": "The pasta is delicious." },
+            { "italian": "Tutto è delizioso qui.", "english": "Everything is delicious here." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È molto buono/a",
+        "english": "It's very good",
+        "pronunciation": "eh MOHL-toh bwoh-NOH / bwoh-NAH",
+        "examples": [
+            { "italian": "Il vino è molto buono.", "english": "The wine is very good." },
+            { "italian": "La carne è molto buona.", "english": "The meat is very good." },
+            { "italian": "Questo piatto è molto buono.", "english": "This dish is very good." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Complimenti!",
+        "english": "Compliments! / Well done!",
+        "pronunciation": "kohm-plee-MEN-tee",
+        "examples": [
+            { "italian": "Complimenti al cuoco!", "english": "Compliments to the chef!" },
+            { "italian": "Complimenti per questo piatto!", "english": "Compliments on this dish!" },
+            { "italian": "Complimenti, è eccellente.", "english": "Compliments, it's excellent." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi piace molto",
+        "english": "I like it a lot",
+        "pronunciation": "mee PYAH-cheh MOHL-toh",
+        "examples": [
+            { "italian": "Mi piace molto questo vino.", "english": "I like this wine a lot." },
+            { "italian": "Mi piace molto la cucina di questo ristorante.", "english": "I like the cuisine of this restaurant a lot." },
+            { "italian": "Mi piace molto il pesce qui.", "english": "I really like the fish here." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È perfetto/a",
+        "english": "It's perfect",
+        "pronunciation": "eh per-FET-toh / per-FET-tah",
+        "examples": [
+            { "italian": "Questo piatto è perfetto!", "english": "This dish is perfect!" },
+            { "italian": "La temperatura è perfetta.", "english": "The temperature is perfect." },
+            { "italian": "Tutto è perfetto.", "english": "Everything is perfect." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Scusi, non è quello che ho ordinato",
+        "english": "Excuse me, this isn't what I ordered",
+        "pronunciation": "SKOO-zee nohn eh KWELL-oh keh oh or-dee-NAH-toh",
+        "examples": [
+            { "italian": "Scusi, non è quello che ho ordinato. Io ho chiesto il pesce.", "english": "Excuse me, this isn't what I ordered. I asked for fish." },
+            { "italian": "Scusi, ho ordinato un piatto diverso.", "english": "Excuse me, I ordered a different dish." },
+            { "italian": "Mi scusi, non è quello che abbiamo chiesto.", "english": "Excuse me, this isn't what we asked for." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È freddo / caldo",
+        "english": "It's cold / hot",
+        "pronunciation": "eh FRED-doh / KAHL-doh",
+        "examples": [
+            { "italian": "Mi scusi, la zuppa è fredda.", "english": "Excuse me, the soup is cold." },
+            { "italian": "Il piatto è troppo caldo.", "english": "The dish is too hot." },
+            { "italian": "Potrebbe riscaldarlo? È freddo.", "english": "Could you heat it up? It's cold." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È troppo salato",
+        "english": "It's too salty",
+        "pronunciation": "eh TROHP-poh sah-LAH-toh",
+        "examples": [
+            { "italian": "Mi scusi, è troppo salato.", "english": "Excuse me, it's too salty." },
+            { "italian": "Questo piatto è troppo salato per me.", "english": "This dish is too salty for me." },
+            { "italian": "La salsa è troppo salata.", "english": "The sauce is too salty." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Potrebbe portarmi...?",
+        "english": "Could you bring me...?",
+        "pronunciation": "poh-TREBB-beh por-TAR-mee",
+        "examples": [
+            { "italian": "Potrebbe portarmi un coltello, per favore?", "english": "Could you bring me a knife, please?" },
+            { "italian": "Potrebbe portarmi la saliera?", "english": "Could you bring me the salt shaker?" },
+            { "italian": "Mi potrebbe portare un piatto pulito?", "english": "Could you bring me a clean plate?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Abbiamo fretta",
+        "english": "We're in a hurry",
+        "pronunciation": "ah-bee-AH-moh FRET-tah",
+        "examples": [
+            { "italian": "Abbiamo fretta, potremmo ordinare?", "english": "We're in a hurry, could we order?" },
+            { "italian": "Ci scusi, abbiamo un po' di fretta.", "english": "Excuse us, we're in a bit of a hurry." },
+            { "italian": "Abbiamo poco tempo, potremmo avere il conto presto?", "english": "We have little time, could we have the check soon?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Il conto, per favore",
+        "english": "The check, please",
+        "pronunciation": "eel KOHN-toh pehr fah-VOH-reh",
+        "examples": [
+            { "italian": "Il conto, per favore.", "english": "The check, please." },
+            { "italian": "Ci porta il conto?", "english": "Could you bring us the check?" },
+            { "italian": "Quando ci porti il conto?", "english": "When can you bring us the check?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Posso pagare con carta?",
+        "english": "Can I pay with a card?",
+        "pronunciation": "POHS-soh pah-GAH-reh kohn KAR-tah",
+        "examples": [
+            { "italian": "Posso pagare con carta di credito?", "english": "Can I pay with a credit card?" },
+            { "italian": "Accettate carta?", "english": "Do you accept cards?" },
+            { "italian": "Posso pagare con la mia carta?", "english": "Can I pay with my card?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Accettate carte di credito?",
+        "english": "Do you accept credit cards?",
+        "pronunciation": "ah-chet-TAH-teh KAR-teh dee KREH-dee-toh",
+        "examples": [
+            { "italian": "Accettate carte di credito internazionali?", "english": "Do you accept international credit cards?" },
+            { "italian": "Accettate Visa o Mastercard?", "english": "Do you accept Visa or Mastercard?" },
+            { "italian": "Posso pagare con carta o devo usare contanti?", "english": "Can I pay with card or do I have to use cash?" }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "C'è un errore nel conto",
+        "english": "There's an error in the bill",
+        "pronunciation": "cheh oon er-ROH-reh nel KOHN-toh",
+        "examples": [
+            { "italian": "Mi scusi, c'è un errore nel conto.", "english": "Excuse me, there's an error in the bill." },
+            { "italian": "Credo che ci sia un errore. Ho ordinato tre piatti, non quattro.", "english": "I think there's an error. I ordered three dishes, not four." },
+            { "italian": "Mi scusa, questo non corrisponde a quello che abbiamo ordinato.", "english": "Excuse me, this doesn't match what we ordered." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Grazie mille",
+        "english": "Thank you very much",
+        "pronunciation": "GRAH-tzee MEEL-leh",
+        "examples": [
+            { "italian": "Grazie mille per il servizio.", "english": "Thank you very much for the service." },
+            { "italian": "Grazie mille, è stato meraviglioso.", "english": "Thank you very much, it was wonderful." },
+            { "italian": "Grazie mille, è tutto buonissimo.", "english": "Thank you very much, everything is delicious." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "È stato delizioso",
+        "english": "It was delicious",
+        "pronunciation": "eh STAH-toh deh-lee-zee-OH-soh",
+        "examples": [
+            { "italian": "È stato delizioso, grazie mille.", "english": "It was delicious, thank you very much." },
+            { "italian": "Il pasto è stato delizioso.", "english": "The meal was delicious." },
+            { "italian": "Tutto è stato delizioso. Complimenti al cuoco.", "english": "Everything was delicious. Compliments to the chef." }
+        ]
+    }
+]

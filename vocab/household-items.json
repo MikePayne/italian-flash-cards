@@ -1,0 +1,1514 @@
+[
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "camicia",
+        "english": "shirt",
+        "pronunciation": "kah-MEE-chah",
+        "examples": [
+            { "italian": "Indosso una camicia blu.", "english": "I'm wearing a blue shirt." },
+            { "italian": "Hai una camicia pulita?", "english": "Do you have a clean shirt?" },
+            { "italian": "La camicia è nella armadio.", "english": "The shirt is in the wardrobe." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "maglietta",
+        "english": "T-shirt",
+        "pronunciation": "mahl-YET-tah",
+        "examples": [
+            { "italian": "Indosso una maglietta rossa.", "english": "I'm wearing a red T-shirt." },
+            { "italian": "Dove sono le mie magliette?", "english": "Where are my T-shirts?" },
+            { "italian": "Una maglietta bianca, per favore.", "english": "A white T-shirt, please." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "pantaloni",
+        "english": "pants",
+        "pronunciation": "pahn-tah-LOH-nee",
+        "examples": [
+            { "italian": "Indosso pantaloni neri.", "english": "I'm wearing black pants." },
+            { "italian": "Questi pantaloni sono comodi.", "english": "These pants are comfortable." },
+            { "italian": "Dove sono i miei pantaloni?", "english": "Where are my pants?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "jeans",
+        "english": "jeans",
+        "pronunciation": "jeans",
+        "examples": [
+            { "italian": "Indosso i jeans.", "english": "I'm wearing jeans." },
+            { "italian": "I miei jeans preferiti.", "english": "My favorite jeans." },
+            { "italian": "Compra un paio di jeans.", "english": "Buy a pair of jeans." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "vestito",
+        "english": "dress",
+        "pronunciation": "ves-TEE-toh",
+        "examples": [
+            { "italian": "Indosso un vestito bellissimo.", "english": "I'm wearing a beautiful dress." },
+            { "italian": "Che vestito carino!", "english": "What a cute dress!" },
+            { "italian": "Un vestito da sera.", "english": "An evening dress." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "gonna",
+        "english": "skirt",
+        "pronunciation": "GOHN-nah",
+        "examples": [
+            { "italian": "Indosso una gonna lunga.", "english": "I'm wearing a long skirt." },
+            { "italian": "Una gonna a pieghe.", "english": "A pleated skirt." },
+            { "italian": "Dove è la mia gonna?", "english": "Where is my skirt?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "giacca",
+        "english": "jacket",
+        "pronunciation": "JAHK-kah",
+        "examples": [
+            { "italian": "Indosso una giacca di pelle.", "english": "I'm wearing a leather jacket." },
+            { "italian": "Ho bisogno di una giacca.", "english": "I need a jacket." },
+            { "italian": "Una giacca da lavoro.", "english": "A work jacket." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "cappotto",
+        "english": "coat",
+        "pronunciation": "kahp-POH-toh",
+        "examples": [
+            { "italian": "Indosso un cappotto invernale.", "english": "I'm wearing a winter coat." },
+            { "italian": "Dove è il mio cappotto?", "english": "Where is my coat?" },
+            { "italian": "Un cappotto nuovo.", "english": "A new coat." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "maglione",
+        "english": "sweater",
+        "pronunciation": "mahl-YOH-neh",
+        "examples": [
+            { "italian": "Indosso un maglione caldo.", "english": "I'm wearing a warm sweater." },
+            { "italian": "Un maglione di lana.", "english": "A wool sweater." },
+            { "italian": "Ho freddo, metto il maglione.", "english": "I'm cold, I'll put on the sweater." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "felpa",
+        "english": "hoodie",
+        "pronunciation": "FEL-pah",
+        "examples": [
+            { "italian": "Indosso una felpa grigia.", "english": "I'm wearing a gray hoodie." },
+            { "italian": "Una felpa comoda.", "english": "A comfortable hoodie." },
+            { "italian": "Metti la felpa, fa freddo.", "english": "Put on the hoodie, it's cold." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "biancheria intima",
+        "english": "underwear",
+        "pronunciation": "bee-ahn-KEH-ree-ah een-TEE-mah",
+        "examples": [
+            { "italian": "Ho bisogno di biancheria intima pulita.", "english": "I need clean underwear." },
+            { "italian": "Lava la biancheria intima.", "english": "Wash the underwear." },
+            { "italian": "Dove è la biancheria intima?", "english": "Where is the underwear?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "calzini",
+        "english": "socks",
+        "pronunciation": "kahl-TSEE-nee",
+        "examples": [
+            { "italian": "Indosso i calzini.", "english": "I'm wearing socks." },
+            { "italian": "Ho perso un calzino.", "english": "I lost a sock." },
+            { "italian": "Calzini di cotone.", "english": "Cotton socks." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "scarpe",
+        "english": "shoes",
+        "pronunciation": "SKAR-peh",
+        "examples": [
+            { "italian": "Indosso le scarpe nuove.", "english": "I'm wearing new shoes." },
+            { "italian": "Dove sono le mie scarpe?", "english": "Where are my shoes?" },
+            { "italian": "Scarpe comode per camminare.", "english": "Comfortable shoes for walking." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "stivali",
+        "english": "boots",
+        "pronunciation": "stee-VAH-lee",
+        "examples": [
+            { "italian": "Indosso stivali di pelle.", "english": "I'm wearing leather boots." },
+            { "italian": "Stivali da pioggia.", "english": "Rain boots." },
+            { "italian": "Ho bisogno di stivali invernali.", "english": "I need winter boots." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "sandali",
+        "english": "sandals",
+        "pronunciation": "sahn-DAH-lee",
+        "examples": [
+            { "italian": "Indosso sandali in estate.", "english": "I wear sandals in summer." },
+            { "italian": "Sandali comodi.", "english": "Comfortable sandals." },
+            { "italian": "Compra sandali nuovi.", "english": "Buy new sandals." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "pantofole",
+        "english": "slippers",
+        "pronunciation": "pahn-TOH-foh-leh",
+        "examples": [
+            { "italian": "Indosso le pantofole a casa.", "english": "I wear slippers at home." },
+            { "italian": "Le mie pantofole preferite.", "english": "My favorite slippers." },
+            { "italian": "Pantofole calde e morbide.", "english": "Warm and soft slippers." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "cappello",
+        "english": "hat",
+        "pronunciation": "kahp-PEL-loh",
+        "examples": [
+            { "italian": "Indosso un cappello per il sole.", "english": "I'm wearing a hat for the sun." },
+            { "italian": "Un cappello di lana.", "english": "A wool hat." },
+            { "italian": "Ho perso il cappello.", "english": "I lost my hat." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "guanti",
+        "english": "gloves",
+        "pronunciation": "gwahn-TEE",
+        "examples": [
+            { "italian": "Indosso i guanti quando fa freddo.", "english": "I wear gloves when it's cold." },
+            { "italian": "Guanti di pelle.", "english": "Leather gloves." },
+            { "italian": "Dove sono i miei guanti?", "english": "Where are my gloves?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "cintura",
+        "english": "belt",
+        "pronunciation": "cheen-TOO-rah",
+        "examples": [
+            { "italian": "Indosso una cintura nera.", "english": "I'm wearing a black belt." },
+            { "italian": "Una cintura di cuoio.", "english": "A leather belt." },
+            { "italian": "Stringa la cintura.", "english": "Tighten the belt." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "pigiama",
+        "english": "pajamas",
+        "pronunciation": "pee-jah-MAH",
+        "examples": [
+            { "italian": "Indosso il pigiama per dormire.", "english": "I wear pajamas to sleep." },
+            { "italian": "Pigiama a righe.", "english": "Striped pajamas." },
+            { "italian": "Dove è il mio pigiama?", "english": "Where are my pajamas?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Clothing",
+        "italian": "accappatoio",
+        "english": "bathrobe",
+        "pronunciation": "ahk-kahp-pah-TOH-yoh",
+        "examples": [
+            { "italian": "Indosso l'accappatoio dopo la doccia.", "english": "I wear a bathrobe after the shower." },
+            { "italian": "Un accappatoio morbido.", "english": "A soft bathrobe." },
+            { "italian": "L'accappatoio è bagnato.", "english": "The bathrobe is wet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "camera da letto",
+        "english": "bedroom",
+        "pronunciation": "KAH-meh-rah dah LET-toh",
+        "examples": [
+            { "italian": "La mia camera da letto è piccola.", "english": "My bedroom is small." },
+            { "italian": "Vado in camera da letto.", "english": "I'm going to the bedroom." },
+            { "italian": "La camera da letto è al secondo piano.", "english": "The bedroom is on the second floor." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "cucina",
+        "english": "kitchen",
+        "pronunciation": "koo-CHEE-nah",
+        "examples": [
+            { "italian": "La cucina è grande.", "english": "The kitchen is big." },
+            { "italian": "Sto in cucina.", "english": "I'm in the kitchen." },
+            { "italian": "Questo frigorifero è in cucina.", "english": "This refrigerator is in the kitchen." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "bagno",
+        "english": "bathroom",
+        "pronunciation": "BAHN-yoh",
+        "examples": [
+            { "italian": "Il bagno è pulito.", "english": "The bathroom is clean." },
+            { "italian": "Vado in bagno.", "english": "I'm going to the bathroom." },
+            { "italian": "Dov'è il bagno?", "english": "Where is the bathroom?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "salotto",
+        "english": "living room",
+        "pronunciation": "sah-LOHT-toh",
+        "examples": [
+            { "italian": "Nel salotto c'è il divano.", "english": "There's a sofa in the living room." },
+            { "italian": "Guardiamo TV nel salotto.", "english": "We watch TV in the living room." },
+            { "italian": "Il salotto è accogliente.", "english": "The living room is cozy." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "sala da pranzo",
+        "english": "dining room",
+        "pronunciation": "SAH-lah dah PRAHN-zoh",
+        "examples": [
+            { "italian": "Ceniamo in sala da pranzo.", "english": "We have dinner in the dining room." },
+            { "italian": "La sala da pranzo è grande.", "english": "The dining room is big." },
+            { "italian": "Il tavolo è in sala da pranzo.", "english": "The table is in the dining room." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "ufficio",
+        "english": "office / study",
+        "pronunciation": "oof-FEE-choh",
+        "examples": [
+            { "italian": "Lavoro in ufficio.", "english": "I work in the office." },
+            { "italian": "L'ufficio è al primo piano.", "english": "The office is on the first floor." },
+            { "italian": "Ho uno scrittorio in ufficio.", "english": "I have a desk in my office." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "corridoio",
+        "english": "hallway",
+        "pronunciation": "kor-ree-DOH-yoh",
+        "examples": [
+            { "italian": "Il corridoio è lungo.", "english": "The hallway is long." },
+            { "italian": "Le stanze sono lungo il corridoio.", "english": "The rooms are along the hallway." },
+            { "italian": "Cammina nel corridoio.", "english": "Walk in the hallway." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "armadio",
+        "english": "closet",
+        "pronunciation": "ar-mah-DEE-oh",
+        "examples": [
+            { "italian": "L'armadio è pieno di vestiti.", "english": "The closet is full of clothes." },
+            { "italian": "Dove è l'armadio?", "english": "Where is the closet?" },
+            { "italian": "Guarda nell'armadio.", "english": "Look in the closet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "dispensa",
+        "english": "pantry",
+        "pronunciation": "dees-PEN-sah",
+        "examples": [
+            { "italian": "Il riso è nella dispensa.", "english": "The rice is in the pantry." },
+            { "italian": "La dispensa è piccola.", "english": "The pantry is small." },
+            { "italian": "Apri la dispensa.", "english": "Open the pantry." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "garage",
+        "english": "garage",
+        "pronunciation": "gah-RAHJ",
+        "examples": [
+            { "italian": "La macchina è in garage.", "english": "The car is in the garage." },
+            { "italian": "Il garage è grande.", "english": "The garage is big." },
+            { "italian": "Metti l'auto in garage.", "english": "Put the car in the garage." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "lavanderia",
+        "english": "laundry room",
+        "pronunciation": "lah-vahn-deh-REE-ah",
+        "examples": [
+            { "italian": "La lavatrice è in lavanderia.", "english": "The washing machine is in the laundry room." },
+            { "italian": "Vado in lavanderia a fare il bucato.", "english": "I go to the laundry room to do laundry." },
+            { "italian": "La lavanderia è al piano inferiore.", "english": "The laundry room is on the lower floor." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "seminterrato",
+        "english": "basement",
+        "pronunciation": "seh-meen-ter-AH-toh",
+        "examples": [
+            { "italian": "Nel seminterrato c'è molta roba vecchia.", "english": "There's a lot of old stuff in the basement." },
+            { "italian": "Il seminterrato è umido.", "english": "The basement is damp." },
+            { "italian": "Scendi in seminterrato.", "english": "Go down to the basement." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "soffitta",
+        "english": "attic",
+        "pronunciation": "sof-FIT-tah",
+        "examples": [
+            { "italian": "Nella soffitta ci sono scatole.", "english": "There are boxes in the attic." },
+            { "italian": "La soffitta è fredda d'inverno.", "english": "The attic is cold in winter." },
+            { "italian": "Sali in soffitta.", "english": "Go up to the attic." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Rooms of the House",
+        "italian": "ingresso",
+        "english": "entryway / foyer",
+        "pronunciation": "een-GRES-soh",
+        "examples": [
+            { "italian": "L'ingresso è accogliente.", "english": "The entryway is welcoming." },
+            { "italian": "Appendi il cappotto nell'ingresso.", "english": "Hang your coat in the entryway." },
+            { "italian": "Chi è all'ingresso?", "english": "Who is at the entryway?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "letto",
+        "english": "bed",
+        "pronunciation": "LET-toh",
+        "examples": [
+            { "italian": "Il letto è comodo.", "english": "The bed is comfortable." },
+            { "italian": "Vado a letto.", "english": "I'm going to bed." },
+            { "italian": "Faccio il letto ogni mattina.", "english": "I make the bed every morning." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "divano",
+        "english": "sofa / couch",
+        "pronunciation": "dee-VAH-noh",
+        "examples": [
+            { "italian": "Mi siedo sul divano.", "english": "I sit on the sofa." },
+            { "italian": "Il divano è nuovo.", "english": "The sofa is new." },
+            { "italian": "Guardo la TV dal divano.", "english": "I watch TV from the sofa." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "poltrona",
+        "english": "armchair",
+        "pronunciation": "pohl-TROH-nah",
+        "examples": [
+            { "italian": "Mi riposo nella poltrona.", "english": "I rest in the armchair." },
+            { "italian": "Una poltrona comoda.", "english": "A comfortable armchair." },
+            { "italian": "La poltrona è accanto alla finestra.", "english": "The armchair is next to the window." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "sedia",
+        "english": "chair",
+        "pronunciation": "SEH-dee-ah",
+        "examples": [
+            { "italian": "Sedersi sulla sedia.", "english": "Sit on the chair." },
+            { "italian": "Abbiamo sei sedie.", "english": "We have six chairs." },
+            { "italian": "La sedia è rotta.", "english": "The chair is broken." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "tavolo",
+        "english": "table",
+        "pronunciation": "TAH-voh-loh",
+        "examples": [
+            { "italian": "Il tavolo è rotondo.", "english": "The table is round." },
+            { "italian": "Mangiamo al tavolo.", "english": "We eat at the table." },
+            { "italian": "Metti il tavolo.", "english": "Set the table." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "scrivania",
+        "english": "desk",
+        "pronunciation": "skree-vah-NEE-ah",
+        "examples": [
+            { "italian": "Lavoro alla scrivania.", "english": "I work at the desk." },
+            { "italian": "La scrivania è grande.", "english": "The desk is big." },
+            { "italian": "Sul tavolo c'è il computer.", "english": "The computer is on the desk." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "comodino",
+        "english": "nightstand",
+        "pronunciation": "koh-moh-DEE-noh",
+        "examples": [
+            { "italian": "La lampada è sul comodino.", "english": "The lamp is on the nightstand." },
+            { "italian": "Metto l'orologio sul comodino.", "english": "I put the clock on the nightstand." },
+            { "italian": "Il comodino è accanto al letto.", "english": "The nightstand is next to the bed." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "comò",
+        "english": "dresser",
+        "pronunciation": "koh-moh",
+        "examples": [
+            { "italian": "I vestiti sono nel comò.", "english": "The clothes are in the dresser." },
+            { "italian": "Apri il comò.", "english": "Open the dresser." },
+            { "italian": "Il comò è di legno.", "english": "The dresser is wooden." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "armadio",
+        "english": "wardrobe",
+        "pronunciation": "ar-mah-DEE-oh",
+        "examples": [
+            { "italian": "L'armadio è pieno.", "english": "The wardrobe is full." },
+            { "italian": "Metti i vestiti nell'armadio.", "english": "Put the clothes in the wardrobe." },
+            { "italian": "L'armadio è grande.", "english": "The wardrobe is big." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "scaffale",
+        "english": "shelf / shelving",
+        "pronunciation": "skahf-FAH-leh",
+        "examples": [
+            { "italian": "I libri sono sullo scaffale.", "english": "The books are on the shelf." },
+            { "italian": "Metti le cose sullo scaffale.", "english": "Put things on the shelf." },
+            { "italian": "Lo scaffale è pieno.", "english": "The shelf is full." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "libreria",
+        "english": "bookshelf",
+        "pronunciation": "lee-breh-REE-ah",
+        "examples": [
+            { "italian": "La libreria è piena di libri.", "english": "The bookshelf is full of books." },
+            { "italian": "Accanto al divano c'è una libreria.", "english": "There's a bookshelf next to the sofa." },
+            { "italian": "Metti i libri sulla libreria.", "english": "Put the books on the bookshelf." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "credenza",
+        "english": "cabinet",
+        "pronunciation": "kreh-DEN-zah",
+        "examples": [
+            { "italian": "La credenza è in cucina.", "english": "The cabinet is in the kitchen." },
+            { "italian": "Apri la credenza.", "english": "Open the cabinet." },
+            { "italian": "I piatti sono nella credenza.", "english": "The plates are in the cabinet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "sedia da pranzo",
+        "english": "dining chair",
+        "pronunciation": "SEH-dee-ah dah PRAHN-zoh",
+        "examples": [
+            { "italian": "Le sedie da pranzo sono di legno.", "english": "The dining chairs are wooden." },
+            { "italian": "Sedersi sulla sedia da pranzo.", "english": "Sit on the dining chair." },
+            { "italian": "Abbiamo quattro sedie da pranzo.", "english": "We have four dining chairs." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "panchetta",
+        "english": "bench",
+        "pronunciation": "pahn-KET-tah",
+        "examples": [
+            { "italian": "La panchetta è al tavolo.", "english": "The bench is at the table." },
+            { "italian": "Sedersi sulla panchetta.", "english": "Sit on the bench." },
+            { "italian": "La panchetta è comoda.", "english": "The bench is comfortable." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Furniture",
+        "italian": "mobiletto TV",
+        "english": "TV stand",
+        "pronunciation": "moh-bee-LET-toh teh-voo",
+        "examples": [
+            { "italian": "La TV è sul mobiletto.", "english": "The TV is on the TV stand." },
+            { "italian": "Il mobiletto è nuovo.", "english": "The TV stand is new." },
+            { "italian": "Metti il lettore DVD sul mobiletto.", "english": "Put the DVD player on the TV stand." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "stufa",
+        "english": "stove",
+        "pronunciation": "STOO-fah",
+        "examples": [
+            { "italian": "La stufa è calda.", "english": "The stove is hot." },
+            { "italian": "Accendo la stufa.", "english": "I turn on the stove." },
+            { "italian": "Cuoco sulla stufa.", "english": "I cook on the stove." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "forno",
+        "english": "oven",
+        "pronunciation": "FOR-noh",
+        "examples": [
+            { "italian": "Riscalda il forno.", "english": "Heat the oven." },
+            { "italian": "Il forno è acceso.", "english": "The oven is on." },
+            { "italian": "Metti il pane nel forno.", "english": "Put the bread in the oven." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "frigorifero",
+        "english": "refrigerator",
+        "pronunciation": "free-goh-REE-feh-roh",
+        "examples": [
+            { "italian": "Metti il latte nel frigorifero.", "english": "Put the milk in the refrigerator." },
+            { "italian": "Il frigorifero è pieno.", "english": "The refrigerator is full." },
+            { "italian": "Apri il frigorifero.", "english": "Open the refrigerator." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "microonde",
+        "english": "microwave",
+        "pronunciation": "mee-croh-OHN-deh",
+        "examples": [
+            { "italian": "Riscaldo il cibo nel microonde.", "english": "I heat the food in the microwave." },
+            { "italian": "Il microonde è veloce.", "english": "The microwave is fast." },
+            { "italian": "Metti il piatto nel microonde.", "english": "Put the plate in the microwave." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "lavastoviglie",
+        "english": "dishwasher",
+        "pronunciation": "lah-vah-stoh-VEE-lyeh",
+        "examples": [
+            { "italian": "Metti i piatti nella lavastoviglie.", "english": "Put the plates in the dishwasher." },
+            { "italian": "La lavastoviglie è in funzione.", "english": "The dishwasher is running." },
+            { "italian": "Accendo la lavastoviglie.", "english": "I turn on the dishwasher." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "lavello",
+        "english": "sink",
+        "pronunciation": "lah-VEL-loh",
+        "examples": [
+            { "italian": "Lavo i piatti nel lavello.", "english": "I wash the dishes in the sink." },
+            { "italian": "Il lavello è pulito.", "english": "The sink is clean." },
+            { "italian": "Apri l'acqua del lavello.", "english": "Turn on the water in the sink." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "piano di lavoro",
+        "english": "counter",
+        "pronunciation": "pee-AH-noh dee LAH-voh-roh",
+        "examples": [
+            { "italian": "Il piano di lavoro è pulito.", "english": "The counter is clean." },
+            { "italian": "Metti le cose sul piano di lavoro.", "english": "Put things on the counter." },
+            { "italian": "Il piano di lavoro è di marmo.", "english": "The counter is marble." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "piatto",
+        "english": "plate",
+        "pronunciation": "pee-AHT-toh",
+        "examples": [
+            { "italian": "Metti il cibo nel piatto.", "english": "Put the food on the plate." },
+            { "italian": "Il piatto è pulito.", "english": "The plate is clean." },
+            { "italian": "Hai rotto il piatto.", "english": "You broke the plate." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "ciotola",
+        "english": "bowl",
+        "pronunciation": "choh-TOH-lah",
+        "examples": [
+            { "italian": "Metti la zuppa nella ciotola.", "english": "Put the soup in the bowl." },
+            { "italian": "Una ciotola di cereali.", "english": "A bowl of cereal." },
+            { "italian": "Lava la ciotola.", "english": "Wash the bowl." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "tazza",
+        "english": "cup",
+        "pronunciation": "TAHT-sah",
+        "examples": [
+            { "italian": "Una tazza di caffè.", "english": "A cup of coffee." },
+            { "italian": "Metti il caffè nella tazza.", "english": "Pour the coffee into the cup." },
+            { "italian": "La tazza è calda.", "english": "The cup is hot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "bicchiere",
+        "english": "glass",
+        "pronunciation": "beek-kee-EH-reh",
+        "examples": [
+            { "italian": "Un bicchiere di acqua.", "english": "A glass of water." },
+            { "italian": "Metti il vino nel bicchiere.", "english": "Pour the wine into the glass." },
+            { "italian": "Il bicchiere è rotto.", "english": "The glass is broken." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "tazza",
+        "english": "mug",
+        "pronunciation": "TAHT-sah",
+        "examples": [
+            { "italian": "Una tazza con il tè.", "english": "A mug with tea." },
+            { "italian": "La mia tazza preferita.", "english": "My favorite mug." },
+            { "italian": "Bevo il caffè dalla tazza.", "english": "I drink coffee from the mug." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "forchetta",
+        "english": "fork",
+        "pronunciation": "for-KET-tah",
+        "examples": [
+            { "italian": "Mangio con la forchetta.", "english": "I eat with the fork." },
+            { "italian": "La forchetta è d'argento.", "english": "The fork is silver." },
+            { "italian": "Dove è la forchetta?", "english": "Where is the fork?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "coltello",
+        "english": "knife",
+        "pronunciation": "kohl-TEL-loh",
+        "examples": [
+            { "italian": "Taglio il pane con il coltello.", "english": "I cut the bread with the knife." },
+            { "italian": "Il coltello è affilato.", "english": "The knife is sharp." },
+            { "italian": "Dov'è il coltello?", "english": "Where is the knife?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "cucchiaio",
+        "english": "spoon",
+        "pronunciation": "kook-kee-AH-yoh",
+        "examples": [
+            { "italian": "Mangio la zuppa con il cucchiaio.", "english": "I eat the soup with the spoon." },
+            { "italian": "Il cucchiaio è di plastica.", "english": "The spoon is plastic." },
+            { "italian": "Mi dai il cucchiaio?", "english": "Can you give me the spoon?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "pentola",
+        "english": "pot",
+        "pronunciation": "PEN-toh-lah",
+        "examples": [
+            { "italian": "Cucino la pasta nella pentola.", "english": "I cook the pasta in the pot." },
+            { "italian": "La pentola è grande.", "english": "The pot is big." },
+            { "italian": "Metti l'acqua nella pentola.", "english": "Put water in the pot." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "padella",
+        "english": "pan",
+        "pronunciation": "pah-DEL-lah",
+        "examples": [
+            { "italian": "Cucino l'uovo nella padella.", "english": "I cook the egg in the pan." },
+            { "italian": "La padella è calda.", "english": "The pan is hot." },
+            { "italian": "Usa la padella.", "english": "Use the pan." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "padellone",
+        "english": "skillet",
+        "pronunciation": "pah-del-LOH-neh",
+        "examples": [
+            { "italian": "Cucino la carne nel padellone.", "english": "I cook the meat in the skillet." },
+            { "italian": "Il padellone è di ghisa.", "english": "The skillet is cast iron." },
+            { "italian": "Riscalda il padellone.", "english": "Heat the skillet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "bollitore",
+        "english": "kettle",
+        "pronunciation": "bohl-lee-TOH-reh",
+        "examples": [
+            { "italian": "Riscalda l'acqua nel bollitore.", "english": "Heat the water in the kettle." },
+            { "italian": "Il bollitore fischia.", "english": "The kettle whistles." },
+            { "italian": "Metti il bollitore sul fuoco.", "english": "Put the kettle on the stove." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "tagliere",
+        "english": "cutting board",
+        "pronunciation": "tahl-yeh-REH",
+        "examples": [
+            { "italian": "Taglio la verdura sul tagliere.", "english": "I cut the vegetables on the cutting board." },
+            { "italian": "Il tagliere è di legno.", "english": "The cutting board is wooden." },
+            { "italian": "Metti il tagliere sulla cucina.", "english": "Put the cutting board on the counter." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "utensile",
+        "english": "utensil",
+        "pronunciation": "oo-ten-SEE-leh",
+        "examples": [
+            { "italian": "Ho vari utensili da cucina.", "english": "I have various cooking utensils." },
+            { "italian": "L'utensile è nel cassetto.", "english": "The utensil is in the drawer." },
+            { "italian": "Quale utensile usi?", "english": "Which utensil do you use?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "tostapane",
+        "english": "toaster",
+        "pronunciation": "tohs-tah-PAH-neh",
+        "examples": [
+            { "italian": "Metto il pane nel tostapane.", "english": "I put the bread in the toaster." },
+            { "italian": "Il tostapane è nuovo.", "english": "The toaster is new." },
+            { "italian": "Accendo il tostapane.", "english": "I turn on the toaster." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Kitchen Items & Appliances",
+        "italian": "frullatore",
+        "english": "blender",
+        "pronunciation": "frool-lah-TOH-reh",
+        "examples": [
+            { "italian": "Uso il frullatore per il succo.", "english": "I use the blender for juice." },
+            { "italian": "Il frullatore è potente.", "english": "The blender is powerful." },
+            { "italian": "Metti la frutta nel frullatore.", "english": "Put the fruit in the blender." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "gabinetto",
+        "english": "toilet",
+        "pronunciation": "gah-bee-NET-toh",
+        "examples": [
+            { "italian": "Il gabinetto è nel bagno.", "english": "The toilet is in the bathroom." },
+            { "italian": "Tira lo sciacquone.", "english": "Flush the toilet." },
+            { "italian": "Il gabinetto è pulito.", "english": "The toilet is clean." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "vasca da bagno",
+        "english": "bathtub",
+        "pronunciation": "VAHS-kah dah BAHN-yoh",
+        "examples": [
+            { "italian": "Mi faccio un bagno nella vasca.", "english": "I take a bath in the bathtub." },
+            { "italian": "La vasca è grande.", "english": "The bathtub is big." },
+            { "italian": "Riempi la vasca d'acqua.", "english": "Fill the bathtub with water." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "doccia",
+        "english": "shower",
+        "pronunciation": "DOH-chah",
+        "examples": [
+            { "italian": "Mi faccio una doccia.", "english": "I take a shower." },
+            { "italian": "La doccia è fredda.", "english": "The shower is cold." },
+            { "italian": "Accendi la doccia.", "english": "Turn on the shower." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "specchio",
+        "english": "mirror",
+        "pronunciation": "SPEK-kee-oh",
+        "examples": [
+            { "italian": "Mi guardo nello specchio.", "english": "I look at myself in the mirror." },
+            { "italian": "Lo specchio è sulla parete.", "english": "The mirror is on the wall." },
+            { "italian": "Lo specchio è pulito.", "english": "The mirror is clean." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "rubinetto",
+        "english": "faucet",
+        "pronunciation": "roo-bee-NET-toh",
+        "examples": [
+            { "italian": "Apri il rubinetto.", "english": "Open the faucet." },
+            { "italian": "Il rubinetto è rotto.", "english": "The faucet is broken." },
+            { "italian": "Chiudi il rubinetto.", "english": "Close the faucet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "asciugamano",
+        "english": "towel",
+        "pronunciation": "ah-shoo-gah-MAH-noh",
+        "examples": [
+            { "italian": "Mi asciugo con l'asciugamano.", "english": "I dry myself with the towel." },
+            { "italian": "L'asciugamano è bagnato.", "english": "The towel is wet." },
+            { "italian": "Metti l'asciugamano nel bagno.", "english": "Put the towel in the bathroom." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "sapone",
+        "english": "soap",
+        "pronunciation": "sah-POH-neh",
+        "examples": [
+            { "italian": "Mi lavo con il sapone.", "english": "I wash with soap." },
+            { "italian": "Il sapone è nel bagno.", "english": "The soap is in the bathroom." },
+            { "italian": "Mi hai lasciato il sapone?", "english": "Did you leave me the soap?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "shampoo",
+        "english": "shampoo",
+        "pronunciation": "SHAM-poo",
+        "examples": [
+            { "italian": "Mi lavo i capelli con lo shampoo.", "english": "I wash my hair with shampoo." },
+            { "italian": "Lo shampoo è finito.", "english": "The shampoo is finished." },
+            { "italian": "Compra lo shampoo.", "english": "Buy the shampoo." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "spazzolino da denti",
+        "english": "toothbrush",
+        "pronunciation": "spahts-soh-LEE-noh dah DEN-tee",
+        "examples": [
+            { "italian": "Mi lavo i denti con lo spazzolino.", "english": "I brush my teeth with the toothbrush." },
+            { "italian": "Lo spazzolino è nuovo.", "english": "The toothbrush is new." },
+            { "italian": "Dove è il mio spazzolino?", "english": "Where is my toothbrush?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "dentifricio",
+        "english": "toothpaste",
+        "pronunciation": "den-tee-FREE-choh",
+        "examples": [
+            { "italian": "Metto il dentifricio sullo spazzolino.", "english": "I put toothpaste on the toothbrush." },
+            { "italian": "Il dentifricio è finito.", "english": "The toothpaste is finished." },
+            { "italian": "Compra il dentifricio.", "english": "Buy the toothpaste." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "carta igienica",
+        "english": "toilet paper",
+        "pronunciation": "KAR-tah ee-jee-EH-nee-kah",
+        "examples": [
+            { "italian": "Manca la carta igienica.", "english": "There's no toilet paper." },
+            { "italian": "Compra la carta igienica.", "english": "Buy the toilet paper." },
+            { "italian": "La carta igienica è sul portarotoli.", "english": "The toilet paper is on the holder." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "tenda da doccia",
+        "english": "shower curtain",
+        "pronunciation": "TEN-dah dah DOH-chah",
+        "examples": [
+            { "italian": "Chiudi la tenda da doccia.", "english": "Close the shower curtain." },
+            { "italian": "La tenda da doccia è bagnata.", "english": "The shower curtain is wet." },
+            { "italian": "Compra una tenda da doccia.", "english": "Buy a shower curtain." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bathroom Items & Fixtures",
+        "italian": "tappeto da bagno",
+        "english": "bath mat",
+        "pronunciation": "tahp-PEH-toh dah BAHN-yoh",
+        "examples": [
+            { "italian": "Mi asciugo sul tappeto da bagno.", "english": "I dry myself on the bath mat." },
+            { "italian": "Il tappeto da bagno è asciutto.", "english": "The bath mat is dry." },
+            { "italian": "Lava il tappeto da bagno.", "english": "Wash the bath mat." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "cuscino",
+        "english": "pillow",
+        "pronunciation": "koo-SHEE-noh",
+        "examples": [
+            { "italian": "Metto la testa sul cuscino.", "english": "I put my head on the pillow." },
+            { "italian": "Il cuscino è morbido.", "english": "The pillow is soft." },
+            { "italian": "Ho due cuscini.", "english": "I have two pillows." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "federa",
+        "english": "pillowcase",
+        "pronunciation": "feh-DEH-rah",
+        "examples": [
+            { "italian": "La federa è bianca.", "english": "The pillowcase is white." },
+            { "italian": "Metto il cuscino nella federa.", "english": "I put the pillow in the pillowcase." },
+            { "italian": "Lava la federa.", "english": "Wash the pillowcase." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "lenzuolo",
+        "english": "sheet",
+        "pronunciation": "len-ZWO-loh",
+        "examples": [
+            { "italian": "Metto il lenzuolo sul letto.", "english": "I put the sheet on the bed." },
+            { "italian": "I lenzuoli sono puliti.", "english": "The sheets are clean." },
+            { "italian": "Lava i lenzuoli.", "english": "Wash the sheets." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "coperta",
+        "english": "blanket",
+        "pronunciation": "koh-PER-tah",
+        "examples": [
+            { "italian": "Mi copro con la coperta.", "english": "I cover myself with the blanket." },
+            { "italian": "La coperta è calda.", "english": "The blanket is warm." },
+            { "italian": "Ho freddo, voglio la coperta.", "english": "I'm cold, I want the blanket." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "trapunta",
+        "english": "comforter",
+        "pronunciation": "trah-POON-tah",
+        "examples": [
+            { "italian": "Mi copro con la trapunta.", "english": "I cover myself with the comforter." },
+            { "italian": "La trapunta è imbottita.", "english": "The comforter is padded." },
+            { "italian": "Lava la trapunta.", "english": "Wash the comforter." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "piumone",
+        "english": "duvet",
+        "pronunciation": "pee-oo-MOH-neh",
+        "examples": [
+            { "italian": "Metto il piumone sulla trapunta.", "english": "I put the duvet on the comforter." },
+            { "italian": "Il piumone è molto caldo.", "english": "The duvet is very warm." },
+            { "italian": "Il piumone è leggero.", "english": "The duvet is lightweight." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "materasso",
+        "english": "mattress",
+        "pronunciation": "mah-teh-RAHS-soh",
+        "examples": [
+            { "italian": "Il materasso è comodo.", "english": "The mattress is comfortable." },
+            { "italian": "Ho un materasso nuovo.", "english": "I have a new mattress." },
+            { "italian": "Il materasso è sulla rete.", "english": "The mattress is on the frame." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "testata",
+        "english": "headboard",
+        "pronunciation": "tes-TAH-tah",
+        "examples": [
+            { "italian": "La testata è di legno.", "english": "The headboard is wooden." },
+            { "italian": "Appoggia la schiena sulla testata.", "english": "Lean your back against the headboard." },
+            { "italian": "La testata è vicino alla parete.", "english": "The headboard is near the wall." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "tenda",
+        "english": "curtain",
+        "pronunciation": "TEN-dah",
+        "examples": [
+            { "italian": "Chiudi la tenda.", "english": "Close the curtain." },
+            { "italian": "La tenda è rossa.", "english": "The curtain is red." },
+            { "italian": "Apri la tenda per far entrare la luce.", "english": "Open the curtain to let in the light." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "persiana",
+        "english": "blind",
+        "pronunciation": "per-see-AH-nah",
+        "examples": [
+            { "italian": "Chiudi la persiana.", "english": "Close the blind." },
+            { "italian": "La persiana è alzata.", "english": "The blind is up." },
+            { "italian": "Abbassa la persiana.", "english": "Lower the blind." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Bedroom Items & Bedding",
+        "italian": "bastone della tenda",
+        "english": "curtain rod",
+        "pronunciation": "bahs-TOH-neh DEL-lah TEN-dah",
+        "examples": [
+            { "italian": "Il bastone della tenda è di ferro.", "english": "The curtain rod is iron." },
+            { "italian": "Appendi la tenda al bastone.", "english": "Hang the curtain on the rod." },
+            { "italian": "Il bastone della tenda è rotto.", "english": "The curtain rod is broken." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "quadro",
+        "english": "picture",
+        "pronunciation": "KWAH-droh",
+        "examples": [
+            { "italian": "Appendo un quadro sulla parete.", "english": "I hang a picture on the wall." },
+            { "italian": "Il quadro è bellissimo.", "english": "The picture is beautiful." },
+            { "italian": "Dove è il quadro?", "english": "Where is the picture?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "quadro",
+        "english": "painting",
+        "pronunciation": "KWAH-droh",
+        "examples": [
+            { "italian": "Mi piace questo quadro.", "english": "I like this painting." },
+            { "italian": "Il quadro è di Picasso.", "english": "The painting is by Picasso." },
+            { "italian": "Appendi il quadro.", "english": "Hang the painting." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "lampada",
+        "english": "lamp",
+        "pronunciation": "LAHM-pah-dah",
+        "examples": [
+            { "italian": "Accendo la lampada.", "english": "I turn on the lamp." },
+            { "italian": "La lampada è sulla scrivania.", "english": "The lamp is on the desk." },
+            { "italian": "La luce della lampada è debole.", "english": "The lamp light is dim." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "paralume",
+        "english": "lampshade",
+        "pronunciation": "pah-rah-LOO-meh",
+        "examples": [
+            { "italian": "Il paralume è rotto.", "english": "The lampshade is broken." },
+            { "italian": "Il paralume è bianco.", "english": "The lampshade is white." },
+            { "italian": "Metti il paralume sulla lampada.", "english": "Put the lampshade on the lamp." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "vaso",
+        "english": "vase",
+        "pronunciation": "VAH-zoh",
+        "examples": [
+            { "italian": "Metto i fiori nel vaso.", "english": "I put the flowers in the vase." },
+            { "italian": "Il vaso è di vetro.", "english": "The vase is glass." },
+            { "italian": "Accanto alla finestra c'è un vaso.", "english": "There's a vase by the window." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "pianta",
+        "english": "plant",
+        "pronunciation": "pee-AHN-tah",
+        "examples": [
+            { "italian": "Innaffio la pianta.", "english": "I water the plant." },
+            { "italian": "La pianta è verde.", "english": "The plant is green." },
+            { "italian": "Metti la pianta sulla finestra.", "english": "Put the plant on the window." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "fiori",
+        "english": "flowers",
+        "pronunciation": "fee-OH-ree",
+        "examples": [
+            { "italian": "Mi piacciono i fiori.", "english": "I like flowers." },
+            { "italian": "Metto i fiori nel vaso.", "english": "I put the flowers in the vase." },
+            { "italian": "I fiori sono bellissimi.", "english": "The flowers are beautiful." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Household Decorations & Accessories",
+        "italian": "orologio",
+        "english": "clock",
+        "pronunciation": "oh-ROH-loh-jee",
+        "examples": [
+            { "italian": "Guardo l'orologio.", "english": "I look at the clock." },
+            { "italian": "L'orologio è sulla parete.", "english": "The clock is on the wall." },
+            { "italian": "Che ora dice l'orologio?", "english": "What time does the clock say?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "porta",
+        "english": "door",
+        "pronunciation": "POR-tah",
+        "examples": [
+            { "italian": "Apri la porta.", "english": "Open the door." },
+            { "italian": "La porta è rossa.", "english": "The door is red." },
+            { "italian": "Chiudi la porta.", "english": "Close the door." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "finestra",
+        "english": "window",
+        "pronunciation": "fee-NES-trah",
+        "examples": [
+            { "italian": "Apri la finestra.", "english": "Open the window." },
+            { "italian": "La finestra è grande.", "english": "The window is big." },
+            { "italian": "Chiudi la finestra.", "english": "Close the window." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "parete",
+        "english": "wall",
+        "pronunciation": "pah-REH-teh",
+        "examples": [
+            { "italian": "La parete è bianca.", "english": "The wall is white." },
+            { "italian": "Appendo il quadro sulla parete.", "english": "I hang the picture on the wall." },
+            { "italian": "La parete è dipinta.", "english": "The wall is painted." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "pavimento",
+        "english": "floor",
+        "pronunciation": "pah-vee-MEN-toh",
+        "examples": [
+            { "italian": "Il pavimento è pulito.", "english": "The floor is clean." },
+            { "italian": "Scopa il pavimento.", "english": "Sweep the floor." },
+            { "italian": "Il pavimento è di legno.", "english": "The floor is wooden." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "soffitto",
+        "english": "ceiling",
+        "pronunciation": "sof-FIT-toh",
+        "examples": [
+            { "italian": "Il soffitto è alto.", "english": "The ceiling is high." },
+            { "italian": "C'è una lampada sul soffitto.", "english": "There's a lamp on the ceiling." },
+            { "italian": "Il soffitto è bianco.", "english": "The ceiling is white." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "interruttore",
+        "english": "light switch",
+        "pronunciation": "een-ter-root-TOH-reh",
+        "examples": [
+            { "italian": "Accendo la luce con l'interruttore.", "english": "I turn on the light with the switch." },
+            { "italian": "L'interruttore è sulla parete.", "english": "The switch is on the wall." },
+            { "italian": "Spegni la luce con l'interruttore.", "english": "Turn off the light with the switch." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "presa",
+        "english": "outlet",
+        "pronunciation": "PREH-zah",
+        "examples": [
+            { "italian": "Collega il telefono alla presa.", "english": "Plug the phone into the outlet." },
+            { "italian": "La presa è sulla parete.", "english": "The outlet is on the wall." },
+            { "italian": "Dov'è la presa?", "english": "Where is the outlet?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "spina",
+        "english": "plug",
+        "pronunciation": "SPEE-nah",
+        "examples": [
+            { "italian": "Collega la spina alla presa.", "english": "Plug the plug into the outlet." },
+            { "italian": "La spina è rotta.", "english": "The plug is broken." },
+            { "italian": "Tira la spina.", "english": "Pull the plug." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "chiavi",
+        "english": "keys",
+        "pronunciation": "KYAH-vee",
+        "examples": [
+            { "italian": "Dove sono le mie chiavi?", "english": "Where are my keys?" },
+            { "italian": "Ho perso le chiavi.", "english": "I lost my keys." },
+            { "italian": "Le chiavi sono sulla tavolo.", "english": "The keys are on the table." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "serratura",
+        "english": "lock",
+        "pronunciation": "ser-rah-TOO-rah",
+        "examples": [
+            { "italian": "Chiudi la serratura.", "english": "Lock the lock." },
+            { "italian": "La serratura è rotta.", "english": "The lock is broken." },
+            { "italian": "Gira la chiave nella serratura.", "english": "Turn the key in the lock." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "scale",
+        "english": "stairs",
+        "pronunciation": "SKAH-leh",
+        "examples": [
+            { "italian": "Sali le scale.", "english": "Go up the stairs." },
+            { "italian": "Le scale sono ripide.", "english": "The stairs are steep." },
+            { "italian": "Scendi le scale.", "english": "Go down the stairs." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "General Household Items",
+        "italian": "ringhiera",
+        "english": "handrail",
+        "pronunciation": "rin-gee-EH-rah",
+        "examples": [
+            { "italian": "Tieni la ringhiera.", "english": "Hold the handrail." },
+            { "italian": "La ringhiera è di ferro.", "english": "The handrail is iron." },
+            { "italian": "La ringhiera è bagnata.", "english": "The handrail is wet." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "scopa",
+        "english": "broom",
+        "pronunciation": "SKOH-pah",
+        "examples": [
+            { "italian": "Spazzo il pavimento con la scopa.", "english": "I sweep the floor with the broom." },
+            { "italian": "La scopa è nel ripostiglio.", "english": "The broom is in the closet." },
+            { "italian": "Dove è la scopa?", "english": "Where is the broom?" }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "mocio",
+        "english": "mop",
+        "pronunciation": "MOH-choh",
+        "examples": [
+            { "italian": "Pulisco il pavimento con il mocio.", "english": "I clean the floor with the mop." },
+            { "italian": "Il mocio è sporco.", "english": "The mop is dirty." },
+            { "italian": "Lava il mocio.", "english": "Wash the mop." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "aspirapolvere",
+        "english": "vacuum",
+        "pronunciation": "ahs-pee-rah-POHL-veh-reh",
+        "examples": [
+            { "italian": "Passo l'aspirapolvere sul tappeto.", "english": "I vacuum the carpet." },
+            { "italian": "L'aspirapolvere è potente.", "english": "The vacuum is powerful." },
+            { "italian": "Accendo l'aspirapolvere.", "english": "I turn on the vacuum." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "lavatrice",
+        "english": "washing machine",
+        "pronunciation": "lah-vah-TREE-cheh",
+        "examples": [
+            { "italian": "Metto il bucato nella lavatrice.", "english": "I put the laundry in the washing machine." },
+            { "italian": "La lavatrice è nuova.", "english": "The washing machine is new." },
+            { "italian": "Accendo la lavatrice.", "english": "I turn on the washing machine." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "asciugatrice",
+        "english": "dryer",
+        "pronunciation": "ah-shoo-gah-TREE-cheh",
+        "examples": [
+            { "italian": "Metto i vestiti nell'asciugatrice.", "english": "I put the clothes in the dryer." },
+            { "italian": "L'asciugatrice è veloce.", "english": "The dryer is fast." },
+            { "italian": "Accendo l'asciugatrice.", "english": "I turn on the dryer." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "ferro da stiro",
+        "english": "iron",
+        "pronunciation": "FER-roh dah STEE-roh",
+        "examples": [
+            { "italian": "Stiro i vestiti con il ferro.", "english": "I iron the clothes with the iron." },
+            { "italian": "Il ferro è caldo.", "english": "The iron is hot." },
+            { "italian": "Accendo il ferro.", "english": "I turn on the iron." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "asse da stiro",
+        "english": "ironing board",
+        "pronunciation": "AHS-seh dah STEE-roh",
+        "examples": [
+            { "italian": "Metto i vestiti sull'asse da stiro.", "english": "I put the clothes on the ironing board." },
+            { "italian": "L'asse da stiro è stabile.", "english": "The ironing board is stable." },
+            { "italian": "Apri l'asse da stiro.", "english": "Open the ironing board." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "secchio",
+        "english": "bucket",
+        "pronunciation": "SEK-kee-oh",
+        "examples": [
+            { "italian": "Riempi il secchio d'acqua.", "english": "Fill the bucket with water." },
+            { "italian": "Il secchio è grande.", "english": "The bucket is big." },
+            { "italian": "Metti l'acqua nel secchio.", "english": "Put water in the bucket." }
+        ]
+    },
+    {
+        "type": "word",
+        "category": "Cleaning & Laundry",
+        "italian": "paletta",
+        "english": "dustpan",
+        "pronunciation": "pah-LET-tah",
+        "examples": [
+            { "italian": "Uso la paletta per la polvere.", "english": "I use the dustpan for dust." },
+            { "italian": "La paletta è piccola.", "english": "The dustpan is small." },
+            { "italian": "Metti la polvere nella paletta.", "english": "Put the dust in the dustpan." }
+        ]
+    }
+]

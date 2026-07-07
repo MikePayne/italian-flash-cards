@@ -1,0 +1,374 @@
+[
+    {
+        "type": "phrase",
+        "italian": "Ti voglio",
+        "english": "I want you",
+        "pronunciation": "tee VOHL-yoh",
+        "intensity": "Mild-Moderate",
+        "examples": [
+            { "italian": "Ti voglio adesso.", "english": "I want you now." },
+            { "italian": "Ti voglio tanto.", "english": "I want you so much." },
+            { "italian": "Ti voglio tutta per me.", "english": "I want all of you for myself." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Sei bellissima",
+        "english": "You're so beautiful",
+        "pronunciation": "say bel-LEES-see-mah",
+        "intensity": "Mild-Moderate",
+        "examples": [
+            { "italian": "Sei bellissima, mi fai impazzire.", "english": "You're so beautiful, you drive me crazy." },
+            { "italian": "Sei bellissima quando mi guardi così.", "english": "You're so beautiful when you look at me like that." },
+            { "italian": "Non hai idea di quanto sei bella.", "english": "You have no idea how beautiful you are." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi ecciti",
+        "english": "You turn me on",
+        "pronunciation": "mee ek-CHEE-tee",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Mi ecciti molto.", "english": "You turn me on a lot." },
+            { "italian": "Mi eccita il modo in cui mi guardi.", "english": "The way you look at me turns me on." },
+            { "italian": "Mi ecciti quando fai così.", "english": "You turn me on when you do that." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio toccarti",
+        "english": "I want to touch you",
+        "pronunciation": "VOHL-yoh tohk-TAR-tee",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Voglio toccarti dappertutto.", "english": "I want to touch you everywhere." },
+            { "italian": "Voglio toccarti lentamente.", "english": "I want to touch you slowly." },
+            { "italian": "Lasciami toccarti.", "english": "Let me touch you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio mangiarti",
+        "english": "I want to eat you out",
+        "pronunciation": "VOHL-yoh mahn-jahr-tee",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Voglio mangiarti quando siamo soli.", "english": "I want to eat you out when we're alone." },
+            { "italian": "Voglio mangiarti tutta.", "english": "I want to eat all of you." },
+            { "italian": "Non vedo l'ora di mangiarti.", "english": "I can't wait to eat you out." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Ti lecco",
+        "english": "I'll lick you",
+        "pronunciation": "tee LEK-koh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Ti lecco dove vuoi.", "english": "I'll lick you wherever you want." },
+            { "italian": "Voglio leccarti lentamente.", "english": "I want to lick you slowly." },
+            { "italian": "Ti lecco finché non impazzisci.", "english": "I'll lick you until you go crazy." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio essere dentro di te",
+        "english": "I want to be inside you",
+        "pronunciation": "VOHL-yoh ES-seh-reh DEN-troh dee teh",
+        "intensity": "Very Strong",
+        "examples": [
+            { "italian": "Voglio essere dentro di te adesso.", "english": "I want to be inside you now." },
+            { "italian": "Non vedo l'ora di essere dentro di te.", "english": "I can't wait to be inside you." },
+            { "italian": "Voglio sentirti intorno a me.", "english": "I want to feel you around me." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Scopami",
+        "english": "Fuck me",
+        "pronunciation": "skoh-PAH-mee",
+        "intensity": "Very Strong",
+        "examples": [
+            { "italian": "Scopami adesso.", "english": "Fuck me now." },
+            { "italian": "Scopami più forte.", "english": "Fuck me harder." },
+            { "italian": "Scopami come vuoi.", "english": "Fuck me however you want." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio fare l'amore con te",
+        "english": "I want to make love to you",
+        "pronunciation": "VOHL-yoh FAH-reh lah-MOH-reh kohn teh",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Voglio fare l'amore con te lentamente.", "english": "I want to make love to you slowly." },
+            { "italian": "Voglio fare l'amore con te tutta la notte.", "english": "I want to make love to you all night." },
+            { "italian": "Non vedo l'ora di fare l'amore con te.", "english": "I can't wait to make love to you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Sei così sexy",
+        "english": "You're so sexy",
+        "pronunciation": "say KOH-zee SEK-see",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Sei così sexy quando indossi quel vestito.", "english": "You're so sexy when you wear that dress." },
+            { "italian": "Mi piace quanto sei sexy.", "english": "I like how sexy you are." },
+            { "italian": "Sei la cosa più sexy che abbia mai visto.", "english": "You're the sexiest thing I've ever seen." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi fai impazzire",
+        "english": "You drive me crazy",
+        "pronunciation": "mee fah ee-mahts-ZEE-reh",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Mi fai impazzire quando mi tocchi così.", "english": "You drive me crazy when you touch me like that." },
+            { "italian": "Mi fai impazzire con il tuo corpo.", "english": "You drive me crazy with your body." },
+            { "italian": "Mi fai impazzire, lo sai.", "english": "You drive me crazy, you know it." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Ti voglio nuda",
+        "english": "I want you naked",
+        "pronunciation": "tee VOHL-yoh NOO-dah",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Ti voglio nuda adesso.", "english": "I want you naked now." },
+            { "italian": "Voglio vederti nuda.", "english": "I want to see you naked." },
+            { "italian": "Mi piaci di più quando sei nuda.", "english": "I like you best when you're naked." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mostrami come ti piace",
+        "english": "Show me how you like it",
+        "pronunciation": "MOHS-trah-mee KOH-meh tee PYAH-cheh",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Mostrami come ti piace.", "english": "Show me how you like it." },
+            { "italian": "Mostrami quello che desideri.", "english": "Show me what you want." },
+            { "italian": "Guidami, dimmi cosa ti piace.", "english": "Guide me, tell me what you like." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio sentire i tuoi gemiti",
+        "english": "I want to hear you moan",
+        "pronunciation": "VOHL-yoh sen-TEE-reh ee TOO-oh-ee JEH-mee-tee",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Voglio sentire i tuoi gemiti.", "english": "I want to hear you moan." },
+            { "italian": "Voglio sentirti dire il mio nome.", "english": "I want to hear you say my name." },
+            { "italian": "Fammi sentire quanto ti piace.", "english": "Let me hear how much you like it." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Non posso aspettare",
+        "english": "I can't wait",
+        "pronunciation": "nohn POHS-soh ahs-pet-TAH-reh",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Non posso aspettare, voglio averti adesso.", "english": "I can't wait, I want to have you now." },
+            { "italian": "Non posso aspettare di più.", "english": "I can't wait any longer." },
+            { "italian": "Non riesco a stare lontano da te.", "english": "I can't stay away from you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Sei tutto quello di cui ho bisogno",
+        "english": "You're everything I need",
+        "pronunciation": "say TOOT-toh KWELL-oh dee koo-ee oh bee-ZOHN-yoh",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Sei tutto quello di cui ho bisogno.", "english": "You're everything I need." },
+            { "italian": "Voglio solo te.", "english": "I only want you." },
+            { "italian": "Non ho bisogno di niente se ho te.", "english": "I don't need anything if I have you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi piace quando sei dominante",
+        "english": "I like when you're in control",
+        "pronunciation": "mee PYAH-cheh KWAN-doh say een kohn-TROHL-oh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Mi piace quando prendi il controllo.", "english": "I like when you take control." },
+            { "italian": "Mi eccita quando hai il potere.", "english": "I'm turned on when you're in charge." },
+            { "italian": "Voglio che tu sia al comando.", "english": "I want you to be in command." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Fai quello che vuoi di me",
+        "english": "Do whatever you want with me",
+        "pronunciation": "fah-ee KWELL-oh keh vwoy dee meh",
+        "intensity": "Very Strong",
+        "examples": [
+            { "italian": "Fai quello che vuoi di me.", "english": "Do whatever you want with me." },
+            { "italian": "Sono tutto tuo.", "english": "I'm all yours." },
+            { "italian": "Puoi fare con me quello che vuoi.", "english": "You can do whatever you want with me." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Ti desidero",
+        "english": "I desire you",
+        "pronunciation": "tee deh-zee-DEH-roh",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Ti desidero più di ogni altra cosa.", "english": "I desire you more than anything." },
+            { "italian": "Ti desidero in questo momento.", "english": "I desire you right now." },
+            { "italian": "Ho desiderato questo per tanto tempo.", "english": "I've wanted this for so long." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Non riesco a smettere di pensarti",
+        "english": "I can't stop thinking about you",
+        "pronunciation": "nohn ree-EHS-koh ah SMET-teh-reh dee pen-SAHR-tee",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Non riesco a smettere di pensarti in questo modo.", "english": "I can't stop thinking about you this way." },
+            { "italian": "Penso a te tutto il giorno.", "english": "I think about you all day." },
+            { "italian": "Non posso smettere di immaginarti.", "english": "I can't stop imagining you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio sentire il tuo corpo contro il mio",
+        "english": "I want to feel your body against mine",
+        "pronunciation": "VOHL-yoh sen-TEE-reh eel TOO-oh KOR-poh KOHN-troh eel MEE-oh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Voglio sentire il tuo corpo contro il mio.", "english": "I want to feel your body against mine." },
+            { "italian": "Mi piace quando i nostri corpi si toccano.", "english": "I like when our bodies touch." },
+            { "italian": "Voglio stare vicino a te.", "english": "I want to be close to you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Puoi essere più rude",
+        "english": "You can be rougher",
+        "pronunciation": "poo-OH-ee ES-seh-reh PYOO ROO-deh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Puoi essere più rude se vuoi.", "english": "You can be rougher if you want." },
+            { "italian": "Non avere paura di essere più forte.", "english": "Don't be afraid to be harder." },
+            { "italian": "Mi piace quando sei un po' rude.", "english": "I like it when you're a bit rough." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Sei perfetto per me",
+        "english": "You're perfect for me",
+        "pronunciation": "say per-FET-tah pehr meh",
+        "intensity": "Moderate",
+        "examples": [
+            { "italian": "Sei perfetta per me.", "english": "You're perfect for me." },
+            { "italian": "Sei esattamente quello che volevo.", "english": "You're exactly what I wanted." },
+            { "italian": "Non potrei chiedere di meglio.", "english": "I couldn't ask for better." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi piace il tuo culo",
+        "english": "I like your ass",
+        "pronunciation": "mee PYAH-cheh eel TOO-oh KOO-loh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Mi piace il tuo culo.", "english": "I like your ass." },
+            { "italian": "Il tuo culo è perfetto.", "english": "Your ass is perfect." },
+            { "italian": "Voglio toccare il tuo culo.", "english": "I want to touch your ass." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Succhiami",
+        "english": "Suck me",
+        "pronunciation": "sook-KYAH-mee",
+        "intensity": "Very Strong",
+        "examples": [
+            { "italian": "Succhiami adesso.", "english": "Suck me now." },
+            { "italian": "Mi piacerebbe se mi succhiassi.", "english": "I'd like it if you sucked me." },
+            { "italian": "Continua a succhiarmi.", "english": "Keep sucking me." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Sei mia",
+        "english": "You're mine",
+        "pronunciation": "say MEE-ah",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Sei mia, solo mia.", "english": "You're mine, only mine." },
+            { "italian": "Voglio che tu sia solo mia.", "english": "I want you to be only mine." },
+            { "italian": "Ti voglio tutta per me, sei mia.", "english": "I want all of you, you're mine." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio il tuo gusto",
+        "english": "I want your taste",
+        "pronunciation": "VOHL-yoh eel TOO-oh GOOS-toh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Voglio il tuo gusto.", "english": "I want to taste you." },
+            { "italian": "Mi piace il tuo gusto.", "english": "I like the taste of you." },
+            { "italian": "Voglio assaggiare ogni parte di te.", "english": "I want to taste every part of you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio che tu venga",
+        "english": "I want you to come",
+        "pronunciation": "VOHL-yoh keh too VEN-gah",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Voglio che tu venga per me.", "english": "I want you to come for me." },
+            { "italian": "Vieni, voglio sentirti venire.", "english": "Come, I want to feel you come." },
+            { "italian": "Voglio che venga insieme a te.", "english": "I want to come with you." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Mi stai guidando pazzo",
+        "english": "You're driving me insane",
+        "pronunciation": "mee STAH-ee gwee-DAHN-doh PAH-tsoh",
+        "intensity": "Strong",
+        "examples": [
+            { "italian": "Mi stai guidando pazzo.", "english": "You're driving me insane." },
+            { "italian": "Quello che fai mi guida completamente pazzo.", "english": "What you do drives me completely crazy." },
+            { "italian": "Mi stai rendendo pazzo con il tuo corpo.", "english": "You're driving me crazy with your body." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Continua così",
+        "english": "Keep going / Keep doing that",
+        "pronunciation": "kohn-TEE-noo-ah koh-ZEE",
+        "intensity": "Moderate-Strong",
+        "examples": [
+            { "italian": "Continua così, mi piace.", "english": "Keep going, I like it." },
+            { "italian": "Sì, continua così.", "english": "Yes, keep doing that." },
+            { "italian": "Non smettere, continua.", "english": "Don't stop, keep going." }
+        ]
+    },
+    {
+        "type": "phrase",
+        "italian": "Voglio stare dentro di te a lungo",
+        "english": "I want to stay inside you for a long time",
+        "pronunciation": "VOHL-yoh STAH-reh DEN-troh dee teh ah LOON-goh",
+        "intensity": "Very Strong",
+        "examples": [
+            { "italian": "Voglio stare dentro di te a lungo.", "english": "I want to stay inside you for a long time." },
+            { "italian": "Non voglio uscire da te.", "english": "I don't want to come out." },
+            { "italian": "Voglio rimanere qui dentro.", "english": "I want to stay here inside you." }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "noun",
+        "italian": "aglio",
+        "english": "garlic",
+        "pronunciation": "AHL-yoh",
+        "singularPlural": {
+            "singular": { "form": "aglio", "article": "un" },
+            "plural": { "form": "agli", "article": "degli" }
+        },
+        "examples": [
+            { "italian": "Aggiungi l'aglio al sugo.", "english": "Add garlic to the sauce." },
+            { "italian": "Mi piace molto l'aglio.", "english": "I like garlic a lot." }
+        ]
+    },
+    {
+        "type": "noun",
+        "italian": "peperoncino",
+        "english": "chili pepper",
+        "pronunciation": "peh-peh-ohn-CHEE-noh",
+        "singularPlural": {
+            "singular": { "form": "peperoncino", "article": "un" },
+            "plural": { "form": "peperoncini", "article": "dei" }
+        },
+        "examples": [
+            { "italian": "Questo piatto ha peperoncino.", "english": "This dish has chili pepper." },
+            { "italian": "Preferisci il peperoncino?", "english": "Do you prefer spicy?" }
+        ]
+    },
+    {
+        "type": "noun",
+        "italian": "olio",
+        "english": "oil",
+        "pronunciation": "OH-lyoh",
+        "singularPlural": {
+            "singular": { "form": "olio", "article": "un" },
+            "plural": { "form": "oli", "article": "degli" }
+        },
+        "examples": [
+            { "italian": "Riscalda l'olio nella padella.", "english": "Heat the oil in the pan." },
+            { "italian": "Questo olio è ottimo.", "english": "This oil is excellent." }
+        ]
+    },
+    {
+        "type": "verb",
+        "italian": "cucinare",
+        "english": "to cook",
+        "pronunciation": "koo-chee-NAH-reh",
+        "conjugations": {
+            "present": [
+                { "person": "io", "form": "cucino" },
+                { "person": "tu", "form": "cucini" },
+                { "person": "lui/lei", "form": "cucina" },
+                { "person": "noi", "form": "cuciniamo" },
+                { "person": "voi", "form": "cucinate" },
+                { "person": "loro", "form": "cucinano" }
+            ]
+        },
+        "examples": [
+            { "italian": "Cucino la pasta ogni giorno.", "english": "I cook pasta every day." },
+            { "italian": "Chi cucina stasera?", "english": "Who is cooking tonight?" }
+        ]
+    }
+]

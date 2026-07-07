@@ -1,0 +1,44 @@
+[
+    {
+        "type": "noun",
+        "italian": "montagna",
+        "english": "mountain",
+        "pronunciation": "mohn-tah-NYAH",
+        "singularPlural": {
+            "singular": { "form": "montagna", "article": "una" },
+            "plural": { "form": "montagne", "article": "delle" }
+        },
+        "examples": [
+            { "italian": "Andiamo in montagna domani.", "english": "We're going to the mountains tomorrow." },
+            { "italian": "Questa montagna è bella.", "english": "This mountain is beautiful." }
+        ]
+    },
+    {
+        "type": "noun",
+        "italian": "sentiero",
+        "english": "trail",
+        "pronunciation": "sen-tyEH-roh",
+        "singularPlural": {
+            "singular": { "form": "sentiero", "article": "un" },
+            "plural": { "form": "sentieri", "article": "dei" }
+        },
+        "examples": [
+            { "italian": "Questo sentiero è difficile.", "english": "This trail is difficult." },
+            { "italian": "Quale sentiero preferisci?", "english": "Which trail do you prefer?" }
+        ]
+    },
+    {
+        "type": "noun",
+        "italian": "zaino",
+        "english": "backpack",
+        "pronunciation": "dzah-EE-noh",
+        "singularPlural": {
+            "singular": { "form": "zaino", "article": "uno" },
+            "plural": { "form": "zaini", "article": "degli" }
+        },
+        "examples": [
+            { "italian": "Ho messo tutto nello zaino.", "english": "I put everything in the backpack." },
+            { "italian": "Il mio zaino è pesante.", "english": "My backpack is heavy." }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Italian Vocabulary Cards</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div id="menuScreen" class="menu-screen">
+        <h1>Italian Vocabulary</h1>
+        <div id="listsContainer" class="lists-grid"></div>
+        <div id="errorMessage" class="error hidden"></div>
+    </div>
+
+    <div id="gameScreen" class="hidden">
+        <div class="stats">
+            <div>Correct: <span id="correctCount">0</span></div>
+            <div>Incorrect: <span id="incorrectCount">0</span></div>
+        </div>
+
+        <button class="reset-btn" onclick="backToMenu()">← Back</button>
+        <div class="mode-indicator" id="modeIndicator">Mode: Italian → English</div>
+        <button class="mode-toggle" onclick="toggleMode()">Switch Mode</button>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <div class="card-container" id="cardContainer">
+            <div class="card" id="card">
+                <div class="card-face card-front">
+                    <div class="card-front-content">
+                        <div class="word-label" id="wordLabel">Word</div>
+                        <div class="italian-word" id="italianWord">Word</div>
+                        <div class="pronunciation" id="pronunciation"></div>
+                    </div>
+                    <div class="flip-hint">Click to reveal</div>
+                </div>
+
+                <div class="card-face card-back">
+                    <div class="back-content" id="backContent"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn btn-no" onclick="cardNo()">✕</button>
+            <button class="btn btn-yes" onclick="cardYes()">✓</button>
+        </div>
+    </div>
+
+    <div id="endScreen" class="hidden">
+        <div class="end-screen">
+            <h2>All Done! 🎉</h2>
+            <div class="stats-grid">
+                <div class="stat-box">
+                    <div class="stat-number" id="finalCorrect">0</div>
+                    <div class="stat-label">Know</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="finalIncorrect">0</div>
+                    <div class="stat-label">Need Practice</div>
+                </div>
+            </div>
+            <button class="reset-btn menu-btn" onclick="backToMenu()">Back to Menu</button>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
