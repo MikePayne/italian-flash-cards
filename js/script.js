@@ -1,14 +1,14 @@
 // List configuration
 const vocabularyLists = [
     { id: 'essential-verbs', name: 'Essential Verbs', count: 32, file: 'vocab/essential-verbs.json' },
-    { id: 'essential-misc', name: 'Essential Misc', count: 0, file: 'vocab/essential-misc.json' },
-    { id: 'household', name: 'Household Items', count: 0, file: 'vocab/household-items.json' },
-    { id: 'dining', name: 'Dining Vocabulary', count: 0, file: 'vocab/dining.json' },
-    { id: 'cooking', name: 'Cooking Vocabulary', count: 0, file: 'vocab/cooking.json' },
-    { id: 'hiking', name: 'Hiking Vocabulary', count: 0, file: 'vocab/hiking.json' },
-    { id: 'medical', name: 'Medical Emergencies', count: 0, file: 'vocab/medical.json' },
-    { id: 'swear-words', name: 'Swear Words', count: 0, file: 'vocab/swear-words.json' },
-    { id: 'dirty-talk', name: 'Dirty Talk', count: 0, file: 'vocab/dirty-talk.json'}
+    { id: 'essential-misc', name: 'Essential Misc', count: 109, file: 'vocab/essential-misc.json' },
+    { id: 'household', name: 'Household Items', count: 126, file: 'vocab/household-items.json' },
+    { id: 'dining', name: 'Dining Vocabulary', count: 36, file: 'vocab/dining.json' },
+    { id: 'cooking', name: 'Cooking Vocabulary', count: 4, file: 'vocab/cooking.json' },
+    { id: 'hiking', name: 'Hiking Vocabulary', count: 3, file: 'vocab/hiking.json' },
+    { id: 'medical', name: 'Medical Emergencies', count: 104, file: 'vocab/medical.json' },
+    { id: 'swear-words', name: 'Swear Words', count: 22, file: 'vocab/swear-words.json' },
+    { id: 'dirty-talk', name: 'Dirty Talk', count: 31, file: 'vocab/dirty-talk.json'}
 ];
 
 let currentList = null;
