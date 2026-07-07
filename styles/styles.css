@@ -466,6 +466,25 @@ body {
     transform: scale(1.08);
 }
 
+.btn-undo {
+    width: 60px;
+    height: 60px;
+    background: #e0e0e0;
+    color: #333;
+    font-size: 32px;
+    padding-top: 12px;
+}
+
+.btn-undo:hover {
+    background: #d0d0d0;
+    transform: scale(1.08);
+}
+
+.btn-undo:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
 .progress-bar {
     width: 100%;
     max-width: 500px;

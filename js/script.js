@@ -230,6 +230,7 @@ function showCard() {
 
     document.getElementById('backContent').innerHTML = backHTML;
     updateProgress();
+    updateUndoButton(); 
 }
 
 function updateProgress() {
@@ -283,6 +284,7 @@ function cardYes() {
         index: currentIndex,
         answer: 'yes'
     });
+    updateUndoButton(); 
     
     setTimeout(() => {
         currentIndex++;
@@ -301,6 +303,7 @@ function cardNo() {
         index: currentIndex,
         answer: 'no'
     });
+    updateUndoButton(); 
     
     setTimeout(() => {
         currentIndex++;
@@ -331,6 +334,14 @@ function undoLastSwipe() {
     
     // Show the card again
     showCard();
+    updateUndoButton(); 
+}
+
+function updateUndoButton() {
+    const undoBtn = document.querySelector('.btn-undo');
+    if (undoBtn) {
+        undoBtn.disabled = history.length === 0;
+    }
 }
 
 
