@@ -17,6 +17,11 @@ body {
     padding: 20px;
 }
 
+#gameScreen{
+    max-width: 500px;
+    width: 100%;
+}
+
 .stats {
     position: absolute;
     top: 20px;
@@ -221,7 +226,6 @@ body {
 
 .card-container {
     width: 100%;
-    min-width: 500px;
     height: 550px;
     margin-bottom: 40px;
     perspective: 1000px;
